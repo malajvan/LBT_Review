@@ -1,0 +1,68 @@
+INFO:root:Started
+INFO:root:Getting driver from url: {url}
+INFO:root:There are currently 966 reviews on Google
+INFO:root:Looking for scroll element...
+INFO:root:Start scrolling...
+INFO:root:Scrolling for the 0 time
+INFO:root:Scrolling for the 1 time
+INFO:root:Scrolling for the 2 time
+INFO:root:Scrolling for the 3 time
+INFO:root:Scrolling for the 4 time
+INFO:root:Scrolling for the 5 time
+INFO:root:Scrolling for the 6 time
+INFO:root:Scrolling for the 7 time
+INFO:root:Scrolling for the 8 time
+INFO:root:Started
+INFO:root:Getting driver from url: https://www.google.com/maps/place/La+Belle+Tonki/@45.5405424,-73.6016345,17z/data=!4m7!3m6!1s0x4cc91938b54ff6a1:0xc2213cf2b19945f5!8m2!3d45.5405424!4d-73.5994458!9m1!1b1
+INFO:root:There are currently 966 reviews on Google
+INFO:root:Looking for scroll element...
+INFO:root:Start scrolling...
+INFO:root:Scrolling for the 0 time
+INFO:root:Scrolling for the 1 time
+INFO:root:Scrolling for the 2 time
+INFO:root:Scrolling for the 3 time
+INFO:root:Scrolling for the 4 time
+INFO:root:Start expanding comments
+INFO:root:Start clicking "More" button...
+INFO:root:Start parsing html with beautifulsoup
+INFO:root:Writting Marjolaine G's review
+INFO:root:Writting Pierre Ngo's review
+INFO:root:Writting Willowspritew W's review
+INFO:root:Writting Khash A.'s review
+INFO:root:Writting Tracy Schmidt's review
+INFO:root:Writting J Ortega's review
+INFO:root:Writting Trong Anh Vu's review
+INFO:root:Writting Ruofan Yin's review
+INFO:root:Writting Richly Tran's review
+INFO:root:Writting Sue W.'s review
+INFO:root:Writting Julia Hong's review
+INFO:root:Writting Karen Wan's review
+INFO:root:Writting Christina Chehade's review
+INFO:root:Writting Sandra Panic's review
+INFO:root:Writting Seb H Miller's review
+INFO:root:Writting Zanna Raya's review
+INFO:root:Writting Jean-francois Rosato's review
+INFO:root:Writting David-Alexandre Hauben's review
+INFO:root:Writting Sam Karb's review
+INFO:root:Writting ScoobiNikki6's review
+INFO:root:Writting Kévarine's review
+INFO:root:Writting Eliane Barb's review
+INFO:root:Writting Andy N's review
+INFO:root:Writting Matt Langis's review
+INFO:root:Writting David Grey's review
+INFO:root:Writting Cindy Nguyen's review
+INFO:root:Writting Emma Tiger's review
+INFO:root:Writting nocap's review
+INFO:root:Writting Brittany Williams's review
+INFO:root:Writting Fuentes's review
+INFO:root:Writting Jessy Tardif's review
+INFO:root:Writting Vi Van Phan's review
+INFO:root:Writting Maryse Dupuis's review
+INFO:root:Writting O Sinbadinho's review
+INFO:root:Writting Ali Arzouni's review
+INFO:root:Writting David Vu's review
+INFO:root:Writting Diana Nguyen's review
+INFO:root:Writting Cat's review
+INFO:root:Writting Mihai Octavian Popescu's review
+INFO:root:Writting J. Style's review
+INFO:root:Finished
