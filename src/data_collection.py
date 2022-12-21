@@ -6,7 +6,7 @@ from bs4 import BeautifulSoup as bs
 import re,time
 import logging
 
-def do():
+def retrieve_data():
     driver=webdriver.Chrome()
 
     url= "https://www.google.com/maps/place/La+Belle+Tonki/@45.5405424,-73.6016345,17z/data=!4m7!3m6!1s0x4cc91938b54ff6a1:0xc2213cf2b19945f5!8m2!3d45.5405424!4d-73.5994458!9m1!1b1" #go straight to the review url of la belle tonki
@@ -21,7 +21,7 @@ def do():
     logging.info('Looking for scroll element...')
     scroll=driver.find_element(By.XPATH,'/html/body/div[3]/div[9]/div[9]/div/div/div[1]/div[2]/div/div[1]/div/div/div[2]')
     logging.info('Start scrolling...')
-    for i in range(5): #number_of_reviews//10 +3): #sometimes scrolling in google go back to top so just in case
+    for i in range(number_of_reviews//5 +3): #sometimes scrolling in google go back to top so just in case
         driver.execute_script('arguments[0].scrollTop=arguments[0].scrollHeight',scroll)
         time.sleep(3)
         logging.info(f'Scrolling for the {i+1} time')
@@ -47,6 +47,7 @@ def do():
 
 
 """
+Last time collecting: Dec 20 2022
 todo:
     * fix file structure: functions, rename etc.
     * organize, clean data

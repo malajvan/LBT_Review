@@ -66,3 +66,1987 @@ INFO:root:Writting Cat's review
 INFO:root:Writting Mihai Octavian Popescu's review
 INFO:root:Writting J. Style's review
 INFO:root:Finished
+INFO:root:Started
+INFO:root:Getting driver from url: https://www.google.com/maps/place/La+Belle+Tonki/@45.5405424,-73.6016345,17z/data=!4m7!3m6!1s0x4cc91938b54ff6a1:0xc2213cf2b19945f5!8m2!3d45.5405424!4d-73.5994458!9m1!1b1
+INFO:root:There are currently 966 reviews on Google
+INFO:root:Looking for scroll element...
+INFO:root:Start scrolling...
+INFO:root:Scrolling for the 1 time
+INFO:root:Scrolling for the 2 time
+INFO:root:Scrolling for the 3 time
+INFO:root:Scrolling for the 4 time
+INFO:root:Scrolling for the 5 time
+INFO:root:Start expanding comments
+INFO:root:Start clicking "More" button...
+INFO:root:Start parsing html with beautifulsoup
+INFO:root:Writting Marjolaine G's review
+INFO:root:Writting Pierre Ngo's review
+INFO:root:Writting Willowspritew W's review
+INFO:root:Writting Khash A.'s review
+INFO:root:Writting Tracy Schmidt's review
+INFO:root:Writting J Ortega's review
+INFO:root:Writting Trong Anh Vu's review
+INFO:root:Writting Ruofan Yin's review
+INFO:root:Writting Richly Tran's review
+INFO:root:Writting Sue W.'s review
+INFO:root:Writting Julia Hong's review
+INFO:root:Writting Karen Wan's review
+INFO:root:Writting Christina Chehade's review
+INFO:root:Writting Sandra Panic's review
+INFO:root:Writting Seb H Miller's review
+INFO:root:Writting Zanna Raya's review
+INFO:root:Writting Jean-francois Rosato's review
+INFO:root:Writting David-Alexandre Hauben's review
+INFO:root:Writting Sam Karb's review
+INFO:root:Writting ScoobiNikki6's review
+INFO:root:Writting Kévarine's review
+INFO:root:Writting Andy N's review
+INFO:root:Writting David Grey's review
+INFO:root:Writting Cindy Nguyen's review
+INFO:root:Writting Emma Tiger's review
+INFO:root:Writting nocap's review
+INFO:root:Writting Brittany Williams's review
+INFO:root:Writting Fuentes's review
+INFO:root:Writting Eliane Barb's review
+INFO:root:Writting Jessy Tardif's review
+INFO:root:Writting Vi Van Phan's review
+INFO:root:Writting Matt Langis's review
+INFO:root:Writting Maryse Dupuis's review
+INFO:root:Writting O Sinbadinho's review
+INFO:root:Writting Ali Arzouni's review
+INFO:root:Writting David Vu's review
+INFO:root:Writting Diana Nguyen's review
+INFO:root:Writting Cat's review
+INFO:root:Writting Mihai Octavian Popescu's review
+INFO:root:Writting J. Style's review
+INFO:root:Finished
+INFO:root:Started
+INFO:root:Getting driver from url: https://www.google.com/maps/place/La+Belle+Tonki/@45.5405424,-73.6016345,17z/data=!4m7!3m6!1s0x4cc91938b54ff6a1:0xc2213cf2b19945f5!8m2!3d45.5405424!4d-73.5994458!9m1!1b1
+INFO:root:There are currently 978 reviews on Google
+INFO:root:Looking for scroll element...
+INFO:root:Start scrolling...
+INFO:root:Scrolling for the 1 time
+INFO:root:Scrolling for the 2 time
+INFO:root:Scrolling for the 3 time
+INFO:root:Scrolling for the 4 time
+INFO:root:Scrolling for the 5 time
+INFO:root:Start expanding comments
+INFO:root:Start clicking "More" button...
+INFO:root:Started
+INFO:root:Getting driver from url: https://www.google.com/maps/place/La+Belle+Tonki/@45.5405424,-73.6016345,17z/data=!4m7!3m6!1s0x4cc91938b54ff6a1:0xc2213cf2b19945f5!8m2!3d45.5405424!4d-73.5994458!9m1!1b1
+INFO:root:There are currently 978 reviews on Google
+INFO:root:Looking for scroll element...
+INFO:root:Start scrolling...
+INFO:root:Scrolling for the 1 time
+INFO:root:Scrolling for the 2 time
+INFO:root:Scrolling for the 3 time
+INFO:root:Scrolling for the 4 time
+INFO:root:Scrolling for the 5 time
+INFO:root:Start expanding comments
+INFO:root:Start clicking "More" button...
+INFO:root:Start parsing html with beautifulsoup
+INFO:root:Writting Marjolaine G's review
+INFO:root:Writting Pierre Ngo's review
+INFO:root:Writting Willowspritew W's review
+INFO:root:Writting Khash A.'s review
+INFO:root:Writting Tracy Schmidt's review
+INFO:root:Writting J Ortega's review
+INFO:root:Writting Trong Anh Vu's review
+INFO:root:Writting Ruofan Yin's review
+INFO:root:Writting Richly Tran's review
+INFO:root:Writting Sue W.'s review
+INFO:root:Writting Julia Hong's review
+INFO:root:Writting Karen Wan's review
+INFO:root:Writting Christina Chehade's review
+INFO:root:Writting Sandra Panic's review
+INFO:root:Writting Seb H Miller's review
+INFO:root:Writting Zanna Raya's review
+INFO:root:Writting Jean-francois Rosato's review
+INFO:root:Writting David-Alexandre Hauben's review
+INFO:root:Writting Sam Karb's review
+INFO:root:Writting ScoobiNikki6's review
+INFO:root:Writting Kévarine's review
+INFO:root:Writting Andy N's review
+INFO:root:Writting Cindy Nguyen's review
+INFO:root:Writting Emma Tiger's review
+INFO:root:Writting nocap's review
+INFO:root:Writting Brittany Williams's review
+INFO:root:Writting Fuentes's review
+INFO:root:Writting Eliane Barb's review
+INFO:root:Writting Jessy Tardif's review
+INFO:root:Writting Vi Van Phan's review
+INFO:root:Finished
+INFO:root:Started
+INFO:root:Getting driver from url: https://www.google.com/maps/place/La+Belle+Tonki/@45.5405424,-73.6016345,17z/data=!4m7!3m6!1s0x4cc91938b54ff6a1:0xc2213cf2b19945f5!8m2!3d45.5405424!4d-73.5994458!9m1!1b1
+INFO:root:There are currently 978 reviews on Google
+INFO:root:Looking for scroll element...
+INFO:root:Start scrolling...
+INFO:root:Scrolling for the 1 time
+INFO:root:Scrolling for the 2 time
+INFO:root:Scrolling for the 3 time
+INFO:root:Scrolling for the 4 time
+INFO:root:Scrolling for the 5 time
+INFO:root:Scrolling for the 6 time
+INFO:root:Scrolling for the 7 time
+INFO:root:Scrolling for the 8 time
+INFO:root:Scrolling for the 9 time
+INFO:root:Scrolling for the 10 time
+INFO:root:Scrolling for the 11 time
+INFO:root:Scrolling for the 12 time
+INFO:root:Scrolling for the 13 time
+INFO:root:Scrolling for the 14 time
+INFO:root:Scrolling for the 15 time
+INFO:root:Scrolling for the 16 time
+INFO:root:Scrolling for the 17 time
+INFO:root:Scrolling for the 18 time
+INFO:root:Scrolling for the 19 time
+INFO:root:Scrolling for the 20 time
+INFO:root:Scrolling for the 21 time
+INFO:root:Scrolling for the 22 time
+INFO:root:Scrolling for the 23 time
+INFO:root:Scrolling for the 24 time
+INFO:root:Scrolling for the 25 time
+INFO:root:Scrolling for the 26 time
+INFO:root:Scrolling for the 27 time
+INFO:root:Scrolling for the 28 time
+INFO:root:Scrolling for the 29 time
+INFO:root:Scrolling for the 30 time
+INFO:root:Scrolling for the 31 time
+INFO:root:Scrolling for the 32 time
+INFO:root:Scrolling for the 33 time
+INFO:root:Scrolling for the 34 time
+INFO:root:Scrolling for the 35 time
+INFO:root:Scrolling for the 36 time
+INFO:root:Scrolling for the 37 time
+INFO:root:Scrolling for the 38 time
+INFO:root:Scrolling for the 39 time
+INFO:root:Scrolling for the 40 time
+INFO:root:Scrolling for the 41 time
+INFO:root:Scrolling for the 42 time
+INFO:root:Scrolling for the 43 time
+INFO:root:Scrolling for the 44 time
+INFO:root:Scrolling for the 45 time
+INFO:root:Scrolling for the 46 time
+INFO:root:Scrolling for the 47 time
+INFO:root:Scrolling for the 48 time
+INFO:root:Scrolling for the 49 time
+INFO:root:Scrolling for the 50 time
+INFO:root:Scrolling for the 51 time
+INFO:root:Scrolling for the 52 time
+INFO:root:Scrolling for the 53 time
+INFO:root:Scrolling for the 54 time
+INFO:root:Scrolling for the 55 time
+INFO:root:Scrolling for the 56 time
+INFO:root:Scrolling for the 57 time
+INFO:root:Scrolling for the 58 time
+INFO:root:Scrolling for the 59 time
+INFO:root:Scrolling for the 60 time
+INFO:root:Scrolling for the 61 time
+INFO:root:Scrolling for the 62 time
+INFO:root:Scrolling for the 63 time
+INFO:root:Scrolling for the 64 time
+INFO:root:Scrolling for the 65 time
+INFO:root:Scrolling for the 66 time
+INFO:root:Scrolling for the 67 time
+INFO:root:Scrolling for the 68 time
+INFO:root:Scrolling for the 69 time
+INFO:root:Scrolling for the 70 time
+INFO:root:Scrolling for the 71 time
+INFO:root:Scrolling for the 72 time
+INFO:root:Scrolling for the 73 time
+INFO:root:Scrolling for the 74 time
+INFO:root:Scrolling for the 75 time
+INFO:root:Scrolling for the 76 time
+INFO:root:Scrolling for the 77 time
+INFO:root:Scrolling for the 78 time
+INFO:root:Scrolling for the 79 time
+INFO:root:Scrolling for the 80 time
+INFO:root:Scrolling for the 81 time
+INFO:root:Scrolling for the 82 time
+INFO:root:Scrolling for the 83 time
+INFO:root:Scrolling for the 84 time
+INFO:root:Scrolling for the 85 time
+INFO:root:Scrolling for the 86 time
+INFO:root:Scrolling for the 87 time
+INFO:root:Scrolling for the 88 time
+INFO:root:Scrolling for the 89 time
+INFO:root:Scrolling for the 90 time
+INFO:root:Scrolling for the 91 time
+INFO:root:Scrolling for the 92 time
+INFO:root:Scrolling for the 93 time
+INFO:root:Scrolling for the 94 time
+INFO:root:Scrolling for the 95 time
+INFO:root:Scrolling for the 96 time
+INFO:root:Scrolling for the 97 time
+INFO:root:Scrolling for the 98 time
+INFO:root:Scrolling for the 99 time
+INFO:root:Scrolling for the 100 time
+INFO:root:Start expanding comments
+INFO:root:Start clicking "More" button...
+INFO:root:Start parsing html with beautifulsoup
+INFO:root:Writting Marjolaine G's review
+INFO:root:Writting Pierre Ngo's review
+INFO:root:Writting Willowspritew W's review
+INFO:root:Writting Khash A.'s review
+INFO:root:Writting Tracy Schmidt's review
+INFO:root:Writting J Ortega's review
+INFO:root:Writting Trong Anh Vu's review
+INFO:root:Writting Ruofan Yin's review
+INFO:root:Writting Richly Tran's review
+INFO:root:Writting Sue W.'s review
+INFO:root:Writting Julia Hong's review
+INFO:root:Writting Karen Wan's review
+INFO:root:Writting Christina Chehade's review
+INFO:root:Writting Sandra Panic's review
+INFO:root:Writting Seb H Miller's review
+INFO:root:Writting Zanna Raya's review
+INFO:root:Writting Jean-francois Rosato's review
+INFO:root:Writting David-Alexandre Hauben's review
+INFO:root:Writting Sam Karb's review
+INFO:root:Writting ScoobiNikki6's review
+INFO:root:Writting Kévarine's review
+INFO:root:Writting Andy N's review
+INFO:root:Writting Cindy Nguyen's review
+INFO:root:Writting Emma Tiger's review
+INFO:root:Writting nocap's review
+INFO:root:Writting Brittany Williams's review
+INFO:root:Writting Fuentes's review
+INFO:root:Writting Eliane Barb's review
+INFO:root:Writting Jessy Tardif's review
+INFO:root:Writting Vi Van Phan's review
+INFO:root:Writting Matt Langis's review
+INFO:root:Writting O Sinbadinho's review
+INFO:root:Writting Ali Arzouni's review
+INFO:root:Writting Diana Nguyen's review
+INFO:root:Writting David Grey's review
+INFO:root:Writting Maryse Dupuis's review
+INFO:root:Writting David Vu's review
+INFO:root:Writting Cat's review
+INFO:root:Writting Matthew Haley's review
+INFO:root:Writting Mihai Octavian Popescu's review
+INFO:root:Writting Jenny Fish's review
+INFO:root:Writting Shanti Gonzales's review
+INFO:root:Writting Bilodeau Y.Alexandra's review
+INFO:root:Writting Dong Nam Nguyen's review
+INFO:root:Writting Camille Ferrandez's review
+INFO:root:Writting Ashley K's review
+INFO:root:Writting Jean-Sébastien Leclerc's review
+INFO:root:Writting MC SULY's review
+INFO:root:Writting Catherine Raymond-Poirier's review
+INFO:root:Writting CAI GAN XIAN Lucas's review
+INFO:root:Writting Bruno Leduc's review
+INFO:root:Writting J. Style's review
+INFO:root:Writting Ray Ng's review
+INFO:root:Writting Marie-Eve's review
+INFO:root:Writting Shohorab Hoque's review
+INFO:root:Writting Pineapple Xo's review
+INFO:root:Writting Daniel Lavigueur's review
+INFO:root:Writting Andrew Sisk's review
+INFO:root:Writting Iyand Peterson's review
+INFO:root:Writting Shelby R's review
+INFO:root:Writting Dima Ghattas's review
+INFO:root:Writting Pedro Herrera's review
+INFO:root:Writting Lisbuns The Great's review
+INFO:root:Writting Marky_marc's review
+INFO:root:Writting Mayhem x's review
+INFO:root:Writting Lydia Galvez-C.'s review
+INFO:root:Writting Jose Veloso's review
+INFO:root:Writting Anne Shiraishi's review
+INFO:root:Writting Stanley .Luu's review
+INFO:root:Writting sqz's review
+INFO:root:Writting Alexandra de Fourestier's review
+INFO:root:Writting Melanie Maxine Doucet's review
+INFO:root:Writting Onigiiri uwu's review
+INFO:root:Writting Filip Topic's review
+INFO:root:Writting Varun Tejpal's review
+INFO:root:Writting fojan najafzadehkhoei's review
+INFO:root:Writting Angel Rodriguez's review
+INFO:root:Writting Paigu Fan's review
+INFO:root:Writting Elodie M.'s review
+INFO:root:Writting Julie's review
+INFO:root:Writting Michael Gagliano's review
+INFO:root:Writting Simon Gervais-Quiblat's review
+INFO:root:Writting jonathan flesh's review
+INFO:root:Writting Adam Gaunt's review
+INFO:root:Writting Evens Bonègre's review
+INFO:root:Writting David Vadoud Naderi's review
+INFO:root:Writting Cosmin Jelea's review
+INFO:root:Writting Patrick Ma's review
+INFO:root:Writting Jennifer Lake Goodman's review
+INFO:root:Writting Ernest Wong's review
+INFO:root:Writting PoLee DB's review
+INFO:root:Writting Jeff L.'s review
+INFO:root:Writting akim acacia's review
+INFO:root:Writting Aba Atlas's review
+INFO:root:Writting Maria Trujillo's review
+INFO:root:Writting Young Buck's review
+INFO:root:Writting Shefali Patel's review
+INFO:root:Writting Viet Nguyen-Duong's review
+INFO:root:Writting Omar Talbi's review
+INFO:root:Writting Sarah Glynn's review
+INFO:root:Writting Natalia dls's review
+INFO:root:Writting Joel Mensah's review
+INFO:root:Writting Boris Khramtsov's review
+INFO:root:Writting aline dangourian's review
+INFO:root:Writting Jocelyne Bourgeois's review
+INFO:root:Writting Jojo Labo's review
+INFO:root:Writting rémi Ducharme's review
+INFO:root:Writting Shiho M (S. Durand)'s review
+INFO:root:Writting Kenneth Bourgon's review
+INFO:root:Writting Ray's review
+INFO:root:Writting Ryad Hafiz FlyP's review
+INFO:root:Writting DLAM's review
+INFO:root:Writting Xavier Bédard-La Rocque's review
+INFO:root:Writting Javier Johnson's review
+INFO:root:Writting chantra c's review
+INFO:root:Writting Catherine Cimon-Paquet's review
+INFO:root:Writting Blackkjack21's review
+INFO:root:Writting Krystina Dejean's review
+INFO:root:Writting Rod Young's review
+INFO:root:Writting Pedro Furtado's review
+INFO:root:Writting marie bilodeau's review
+INFO:root:Writting Dave Dush's review
+INFO:root:Writting Lucas D's review
+INFO:root:Writting Mike M's review
+INFO:root:Writting Xavier Nguyen's review
+INFO:root:Writting Ketya Thoeum's review
+INFO:root:Writting Alex Nelson's review
+INFO:root:Writting Lassaad Mestiri's review
+INFO:root:Writting Mathieu Roy-Caissy's review
+INFO:root:Writting Greg St-Elien's review
+INFO:root:Writting Kelly Silver's review
+INFO:root:Writting Winh's's review
+INFO:root:Writting Estelle's review
+INFO:root:Writting Keziah Yamamoto's review
+INFO:root:Writting john kefallinos's review
+INFO:root:Writting Anthony Palomeque's review
+INFO:root:Writting Hugo Latendresse's review
+INFO:root:Writting S LeComte's review
+INFO:root:Writting Rémi Doutre's review
+INFO:root:Writting Jimmy Perron's review
+INFO:root:Writting Chantal Bailey's review
+INFO:root:Writting Nadia Foti's review
+INFO:root:Writting walid achour's review
+INFO:root:Writting Christopher Calado's review
+INFO:root:Writting Lindsay-Dora Germain's review
+INFO:root:Writting Ely Hailman's review
+INFO:root:Writting RICHOU Zzz's review
+INFO:root:Writting Guillaume Blain's review
+INFO:root:Writting milan pham's review
+INFO:root:Writting Jordan Chan's review
+INFO:root:Writting Julie Mondor's review
+INFO:root:Writting king karl's review
+INFO:root:Writting Jim Johnson's review
+INFO:root:Writting Gordon Ramsay's review
+INFO:root:Writting Philippe Adrianakis's review
+INFO:root:Writting R Zugrav's review
+INFO:root:Writting Philip Abernethy's review
+INFO:root:Writting Maria Marsli's review
+INFO:root:Writting Olivier G's review
+INFO:root:Writting Georgina Avila's review
+INFO:root:Writting Boravy Thay's review
+INFO:root:Writting John Maiorano's review
+INFO:root:Writting T Shong's review
+INFO:root:Writting Jia's review
+INFO:root:Writting A M's review
+INFO:root:Writting Herr Fritz's review
+INFO:root:Writting Whamzi Gogoole's review
+INFO:root:Writting Christine Wilson's review
+INFO:root:Writting Anthony Blair's review
+INFO:root:Writting Phillip Thérien's review
+INFO:root:Writting Ra Pha's review
+INFO:root:Writting Laurie Harnois-Langlois's review
+INFO:root:Writting Nicole Pasricha's review
+INFO:root:Writting Dori Khalaf's review
+INFO:root:Writting Michael Chau's review
+INFO:root:Writting Jose Sanchez's review
+INFO:root:Writting Nero9937's review
+INFO:root:Writting Rob Birchall's review
+INFO:root:Writting Sandwich da Marco Subs & Salads's review
+INFO:root:Writting Nrj Sr's review
+INFO:root:Writting Marco Caron's review
+INFO:root:Writting Johnny Keomanyla's review
+INFO:root:Writting Jasmine None's review
+INFO:root:Writting Minh Tran's review
+INFO:root:Writting Chastity Osborne's review
+INFO:root:Writting pen deho's review
+INFO:root:Writting Jennifer Pierre's review
+INFO:root:Writting Andrew's review
+INFO:root:Writting Lorena Cristi's review
+INFO:root:Writting Thomas's review
+INFO:root:Writting Guillaume's review
+INFO:root:Writting Dustin Deveau's review
+INFO:root:Writting Sarin B. Picard's review
+INFO:root:Writting Fred Lacoste's review
+INFO:root:Writting scubobhog's review
+INFO:root:Writting Neslihan Yurtsever's review
+INFO:root:Writting Elie's review
+INFO:root:Writting Simon B's review
+INFO:root:Writting Julie Bee's review
+INFO:root:Writting F. Benard's review
+INFO:root:Writting Daniel A's review
+INFO:root:Writting Simon Chang's review
+INFO:root:Writting Yannick Wolfe's review
+INFO:root:Writting Shelley Porcheron McGill's review
+INFO:root:Writting Colin MacKenzie's review
+INFO:root:Writting Olivier Dallaire-Savard's review
+INFO:root:Writting Farouk Laimeur's review
+INFO:root:Writting Andre LeDre's review
+INFO:root:Writting Salim Adamon's review
+INFO:root:Writting Harry Hilaire's review
+INFO:root:Writting Ja 'Knows's review
+INFO:root:Writting Elie-Anne Ross's review
+INFO:root:Writting Daniel Aldana's review
+INFO:root:Writting Natasha Jean-Bart's review
+INFO:root:Writting Julie B.Savard's review
+INFO:root:Writting Laurent G's review
+INFO:root:Writting Lorena Zamora's review
+INFO:root:Writting Sweet La Rock's review
+INFO:root:Writting Julien Tessier's review
+INFO:root:Writting Paul Y.'s review
+INFO:root:Writting andrea palmer's review
+INFO:root:Writting Minh phansa's review
+INFO:root:Writting Miles Dozier's review
+INFO:root:Writting Erica Mina Deypalubos's review
+INFO:root:Writting PhaNTOm mastaX's review
+INFO:root:Writting PCK Inc.'s review
+INFO:root:Writting Tiago Silva's review
+INFO:root:Writting Enn Vee's review
+INFO:root:Writting Tweet Isabelle's review
+INFO:root:Writting Richard Huard's review
+INFO:root:Writting Kev’'s review
+INFO:root:Writting Keniya-Frédérika Jean's review
+INFO:root:Writting Mathieu Bastien-Dupuis's review
+INFO:root:Writting Monica Biloz's review
+INFO:root:Writting Valéry Paquette's review
+INFO:root:Writting Anne-Cécile GAMBIN's review
+INFO:root:Writting dominique bourhis's review
+INFO:root:Writting Karine S.'s review
+INFO:root:Writting Julie L’heureux's review
+INFO:root:Writting Kassandra Guerrero's review
+INFO:root:Writting Areku's review
+INFO:root:Writting Etienne Gelinas's review
+INFO:root:Writting Runninng Dis-ASS-Ter's review
+INFO:root:Writting Andréanne Racine's review
+INFO:root:Writting Salomé AB's review
+INFO:root:Writting Félix Milot's review
+INFO:root:Writting Xavier Bernet's review
+INFO:root:Writting Tony Quin NGUYEN's review
+INFO:root:Writting Félix Boulet's review
+INFO:root:Writting Mylène Lefebvre's review
+INFO:root:Writting Noémi Côté-Cyr's review
+INFO:root:Writting Élisabeth M's review
+INFO:root:Writting Sophie Renard's review
+INFO:root:Writting Daphnée Simard's review
+INFO:root:Writting J_ AM's review
+INFO:root:Writting E. C.'s review
+INFO:root:Writting Amélie Gauthier's review
+INFO:root:Writting Gabrielle Marchand's review
+INFO:root:Writting Mathieu Archambault's review
+INFO:root:Writting Marco Brunelle's review
+INFO:root:Writting Felix Letourneau's review
+INFO:root:Writting Teressa Hernandez's review
+INFO:root:Writting Pierre-Olivier Jetté's review
+INFO:root:Writting Camille Eisenblaetter's review
+INFO:root:Writting Camille Gélinas-Fafard's review
+INFO:root:Writting Laetitia Boonsri-Beaudet's review
+INFO:root:Writting Clément lemaitre's review
+INFO:root:Writting Nickolas Sacolax's review
+INFO:root:Writting Jimmy Fitzback's review
+INFO:root:Writting Van Phuong Francoise Khan's review
+INFO:root:Writting Olivier Lam's review
+INFO:root:Writting Michaël Bégin's review
+INFO:root:Writting Lucie Blazkowski's review
+INFO:root:Writting Élisabeth Daigle's review
+INFO:root:Writting emmanuel ternize's review
+INFO:root:Writting Giraffe Bleue's review
+INFO:root:Writting s Jcole's review
+INFO:root:Writting nicolas moral's review
+INFO:root:Writting Mathieu Marsolais's review
+INFO:root:Writting Big Bong's review
+INFO:root:Writting Emilie Arsenault's review
+INFO:root:Writting Eric Bélanger's review
+INFO:root:Writting Alix Bouchard's review
+INFO:root:Writting Magali Paquette-Torres's review
+INFO:root:Writting Le Ouim's review
+INFO:root:Writting Marie-Claude “MC” Dion's review
+INFO:root:Writting Pauline Prevot's review
+INFO:root:Writting Charlotte Cordier's review
+INFO:root:Writting Marie B.'s review
+INFO:root:Writting Lou-Anne Guillemet's review
+INFO:root:Writting Jade Cantin-Lefebvre's review
+INFO:root:Writting Alexandre Bourlon's review
+INFO:root:Writting V. Ro's review
+INFO:root:Writting Yosr L-K's review
+INFO:root:Writting Richard Lao's review
+INFO:root:Writting Carolanne Zanth's review
+INFO:root:Writting Ève Renaud-Roy's review
+INFO:root:Writting Michel Lim's review
+INFO:root:Writting Viriane Pes's review
+INFO:root:Writting yoga shak's review
+INFO:root:Writting Catherine's review
+INFO:root:Writting Madden Investments's review
+INFO:root:Writting Seb Humphrey's review
+INFO:root:Writting m roby's review
+INFO:root:Writting Lea Verville's review
+INFO:root:Writting Sandra Doyon's review
+INFO:root:Writting A. Bouchard's review
+INFO:root:Writting Huge The HUGE's review
+INFO:root:Writting Elisabeth Henry's review
+INFO:root:Writting Gigi Huynh's review
+INFO:root:Writting Sarah's review
+INFO:root:Writting Vincent BALDINI's review
+INFO:root:Writting Weeni Joseph's review
+INFO:root:Writting marlene contreras's review
+INFO:root:Writting Léa R. Tremblay's review
+INFO:root:Writting Anh TD's review
+INFO:root:Writting Julie Lamothe's review
+INFO:root:Writting Julien D-C's review
+INFO:root:Writting michiiimich's review
+INFO:root:Writting Camille Beauchamp's review
+INFO:root:Writting Had Rav's review
+INFO:root:Writting Judith Gaudreau's review
+INFO:root:Writting Samuel Hottote's review
+INFO:root:Writting Pascal Hubert's review
+INFO:root:Writting fanny sirard's review
+INFO:root:Writting Celica Sea's review
+INFO:root:Writting Sebastien Tremblay's review
+INFO:root:Writting sophie demers béchire's review
+INFO:root:Writting Maïlys BESSIERE's review
+INFO:root:Writting Isabelle Juneau Show's review
+INFO:root:Writting Mark Prime's review
+INFO:root:Writting Gabriel Girard's review
+INFO:root:Writting Patricia Trepanier's review
+INFO:root:Writting Nadim Tadjine's review
+INFO:root:Writting Maxime Thebean's review
+INFO:root:Writting Emma's review
+INFO:root:Writting mathieu salvail's review
+INFO:root:Writting Cindy Hoang's review
+INFO:root:Writting Eugénie Lévis's review
+INFO:root:Writting Alder Pierre's review
+INFO:root:Writting P. M.'s review
+INFO:root:Writting Sara Bodson's review
+INFO:root:Writting Dominic Norman's review
+INFO:root:Writting Nancy Bastien's review
+INFO:root:Writting Geneviève Thériault Tanguay's review
+INFO:root:Writting Corentin Berdah's review
+INFO:root:Writting Mario Tremblay's review
+INFO:root:Writting Isabelle Michaud's review
+INFO:root:Writting Alexia Grenier's review
+INFO:root:Writting Marta Rosa's review
+INFO:root:Writting Yves Alavo's review
+INFO:root:Writting Daphné Olivier-Aimé's review
+INFO:root:Writting Vicki Grenier's review
+INFO:root:Writting Soup's review
+INFO:root:Writting Gen Green's review
+INFO:root:Writting Céline Gégat's review
+INFO:root:Writting Tin NGUYEN's review
+INFO:root:Writting Romain's review
+INFO:root:Writting Guillaume Briand's review
+INFO:root:Writting KorriganChief “KorriganChief”'s review
+INFO:root:Writting Santi Sananikone's review
+INFO:root:Writting B R's review
+INFO:root:Writting Miss K S's review
+INFO:root:Writting Etienne Barron's review
+INFO:root:Writting Sabreen Sml's review
+INFO:root:Writting Vincent Leclerc's review
+INFO:root:Writting Alexandra Desjardins's review
+INFO:root:Writting Etienne D-P.'s review
+INFO:root:Writting Lara Nguyen's review
+INFO:root:Writting Olivier Barron's review
+INFO:root:Writting Patricia Tremblay's review
+INFO:root:Writting Geneviève Beauchamp's review
+INFO:root:Writting Jeremy Hong's review
+INFO:root:Writting Antoine-Samuel Mauffette Alavo (ASMA)'s review
+INFO:root:Writting El Alia Moussouni's review
+INFO:root:Writting Andrea H's review
+INFO:root:Writting master yoga's review
+INFO:root:Writting Geneviève Lacouline's review
+INFO:root:Writting James Saville's review
+INFO:root:Writting Benjamin Abrivard's review
+INFO:root:Writting labellaluna07 Gilles's review
+INFO:root:Writting Marie-Caroline Lemieux's review
+INFO:root:Writting Stéphanie Vaudry's review
+INFO:root:Writting Tristan Dubois's review
+INFO:root:Writting Kahina's review
+INFO:root:Writting wiston ortiz's review
+INFO:root:Writting Andreas Ihm's review
+INFO:root:Writting nadia bilodeau's review
+INFO:root:Writting Katiana Louissaint's review
+INFO:root:Writting Roxanne Bazinet's review
+INFO:root:Writting Mariane Richard's review
+INFO:root:Writting stacy Bellance's review
+INFO:root:Writting Joanie Geoffroy's review
+INFO:root:Writting Menahan Delorme O'Bomsawin's review
+INFO:root:Writting Mathieu Boucher's review
+INFO:root:Writting Louis Godbout's review
+INFO:root:Writting Auguste tene's review
+INFO:root:Writting Cathie-Anne Dupuis's review
+INFO:root:Writting Eric Faussurier's review
+INFO:root:Writting Virginie DANG's review
+INFO:root:Writting Rose stmnd's review
+INFO:root:Writting Lauwence Noel's review
+INFO:root:Writting Geneviève Beauregard's review
+INFO:root:Writting Israel Montplaisir Benedict's review
+INFO:root:Writting jean sébastien Raymond's review
+INFO:root:Writting Félix Pelletier's review
+INFO:root:Writting Valerie Bouchard's review
+INFO:root:Writting Aurore Bertin's review
+INFO:root:Writting Maude's review
+INFO:root:Writting Leo Fabrello's review
+INFO:root:Writting Laurie Beauchamp's review
+INFO:root:Writting Emma Campbell's review
+INFO:root:Writting HengOver's review
+INFO:root:Writting Paschendael's review
+INFO:root:Writting Vincent Beaulieu's review
+INFO:root:Writting Dvd 160's review
+INFO:root:Writting Sars 93's review
+INFO:root:Writting Karlhens Pierre-Louis's review
+INFO:root:Writting Émilie Poirier's review
+INFO:root:Writting Stephane Bo's review
+INFO:root:Writting Noe B.'s review
+INFO:root:Writting Mélina Nantel's review
+INFO:root:Writting Jean Lapointe's review
+INFO:root:Writting Maude Gauthier's review
+INFO:root:Writting Tere Yoshi's review
+INFO:root:Writting Simon Chartier's review
+INFO:root:Writting Julie Mannering's review
+INFO:root:Writting Robin R.'s review
+INFO:root:Writting Elena R's review
+INFO:root:Writting Simon Jacques-Ricard's review
+INFO:root:Writting Marie-Ève Couture's review
+INFO:root:Writting Sandra Thiel's review
+INFO:root:Writting Roula Karaziwan's review
+INFO:root:Writting Samantha Denzler's review
+INFO:root:Writting Maryléna Bussières's review
+INFO:root:Writting Olivier Clément's review
+INFO:root:Writting Louis D.'s review
+INFO:root:Writting Genevieve Pilon's review
+INFO:root:Writting Max's review
+INFO:root:Writting Sieang Quach's review
+INFO:root:Writting Luc Labonté's review
+INFO:root:Writting Mehdi Tafraoui's review
+INFO:root:Writting stephanie gagne's review
+INFO:root:Writting Tran TT's review
+INFO:root:Writting Vee G's review
+INFO:root:Writting Selkiri Hihi's review
+INFO:root:Writting Richard Moiroud's review
+INFO:root:Writting Maïté Tanguay's review
+INFO:root:Writting Francis Lajeunesse's review
+INFO:root:Writting Olivier Lord's review
+INFO:root:Writting Prima Danse's review
+INFO:root:Writting Francis Gaudreau's review
+INFO:root:Writting yoan painchaud's review
+INFO:root:Writting Windy Hua's review
+INFO:root:Writting Georgia Vannier's review
+INFO:root:Writting Diego's review
+INFO:root:Writting Patricia Dumont's review
+INFO:root:Writting Marie-Michèle Beaumont's review
+INFO:root:Writting Simon Rosa's review
+INFO:root:Writting AM Braconnier's review
+INFO:root:Writting Whereisthefood's review
+INFO:root:Writting Emmanuelle Beauchamp's review
+INFO:root:Writting Marine Simonnet-Lemeune's review
+INFO:root:Writting steve bouvet's review
+INFO:root:Writting Laurence Gagné's review
+INFO:root:Writting Frédérique Létourneau's review
+INFO:root:Writting Gabriel Tesser's review
+INFO:root:Writting Alexis Bourdages's review
+INFO:root:Writting Didier M's review
+INFO:root:Writting Steven “Monsieur F” Ferlatte's review
+INFO:root:Writting Alexandre Brunet's review
+INFO:root:Writting Guillaume Cornille's review
+INFO:root:Writting Donald Bélec's review
+INFO:root:Writting Xavier Flériag's review
+INFO:root:Writting Merryl B. Lavoie's review
+INFO:root:Writting P. Marie's review
+INFO:root:Writting Francis Tanguay's review
+INFO:root:Writting Victoire Ranger's review
+INFO:root:Writting Regg Fleury's review
+INFO:root:Writting Fred Lacharite's review
+INFO:root:Writting Gabriella's review
+INFO:root:Writting Marie-Eve “Kity Cat” Barbin's review
+INFO:root:Writting Antonella De Troia's review
+INFO:root:Writting Chef Loso's review
+INFO:root:Writting Nathalie St Aubin's review
+INFO:root:Writting Émilie Fecteau's review
+INFO:root:Writting Francois Des Rochers's review
+INFO:root:Writting Nathalie Robitaille's review
+INFO:root:Writting Charly SOLANO's review
+INFO:root:Writting gina brault's review
+INFO:root:Writting René Tung's review
+INFO:root:Writting Rick Vo's review
+INFO:root:Writting Marie-Eve Desroches's review
+INFO:root:Writting Rebe Chulita's review
+INFO:root:Writting Simon Anctil-Raymond's review
+INFO:root:Writting Jenny's review
+INFO:root:Writting Jean-François Dumais's review
+INFO:root:Writting Carole Gareau's review
+INFO:root:Writting Mircea Radu Takacs's review
+INFO:root:Writting gabrielle surprenant's review
+INFO:root:Writting Diane Gosselin's review
+INFO:root:Writting Cassandre Sévigny-Lapointe's review
+INFO:root:Writting Félix Lachance's review
+INFO:root:Writting Patrick Delisle (Padel)'s review
+INFO:root:Writting Pierre André Bedard's review
+INFO:root:Writting Marc-Olivier Lacroix's review
+INFO:root:Writting Martine Bruneau's review
+INFO:root:Writting Elodie Desmarais's review
+INFO:root:Writting Azalée .Thérien's review
+INFO:root:Writting Élise Anctil-Raymond's review
+INFO:root:Writting mathieu cauchon's review
+INFO:root:Writting Anabel Vasquez's review
+INFO:root:Writting Pier-Olivier Desmarais's review
+INFO:root:Writting Eric Rouleau's review
+INFO:root:Writting Jo De's review
+INFO:root:Writting William Laplante's review
+INFO:root:Writting Ian Riverin's review
+INFO:root:Writting Maximilien Lemieux's review
+INFO:root:Writting A. Santos's review
+INFO:root:Writting GeraldNat's review
+INFO:root:Writting Lucile Jusserand-Mazaud's review
+INFO:root:Writting Myan's review
+INFO:root:Writting Philippe Lemire's review
+INFO:root:Writting Denis Teasdale's review
+INFO:root:Writting Niti Marcelle Mueth's review
+INFO:root:Writting Loïc Yavercovski's review
+INFO:root:Writting Tinta Barthélémy's review
+INFO:root:Writting Nesma Matar's review
+INFO:root:Writting Jean-Francois Gregoire's review
+INFO:root:Writting Francois Grondin's review
+INFO:root:Writting Lucie Chrétien's review
+INFO:root:Writting Tristan's review
+INFO:root:Writting Parissier Marion's review
+INFO:root:Writting Larissa's review
+INFO:root:Writting Olivia C's review
+INFO:root:Writting Paulo Heaven's review
+INFO:root:Writting Michel Martel's review
+INFO:root:Writting Vincent Desjardins's review
+INFO:root:Writting Anne Cyr's review
+INFO:root:Writting Adrien Moulinas's review
+INFO:root:Writting marie-chantal Bourgeois's review
+INFO:root:Writting Renaud Payant-Hébert's review
+INFO:root:Writting Jean-Pierre Lafond's review
+INFO:root:Writting Luc Dumontet's review
+INFO:root:Writting marie-noelle fortin's review
+INFO:root:Writting Marie-Pier O's review
+INFO:root:Writting Amelia Domenchini's review
+INFO:root:Writting Geneviève Landry's review
+INFO:root:Writting Élizabeth Taillon's review
+INFO:root:Writting Alex Gironde's review
+INFO:root:Writting Philippe Francoeur's review
+INFO:root:Writting Simon Therien's review
+INFO:root:Writting yann nolan's review
+INFO:root:Writting Jean-Francois Pilgrim's review
+INFO:root:Writting marion vivien's review
+INFO:root:Writting Maël Davan-Soulas's review
+INFO:root:Writting Roberto Martin's review
+INFO:root:Writting Stephane Beaudet's review
+INFO:root:Writting Guillaume Catineau's review
+INFO:root:Writting Ivan Jijon's review
+INFO:root:Writting Vincent Coupal's review
+INFO:root:Writting Anj Art's review
+INFO:root:Writting Laura Horta-Adam's review
+INFO:root:Writting Roxane Lavertue's review
+INFO:root:Writting Marc-Antoine Senécal's review
+INFO:root:Writting Gérard Guillemette's review
+INFO:root:Writting Académie Périnatale's review
+INFO:root:Writting Marc-André Viau's review
+INFO:root:Writting Joannie Bélanger's review
+INFO:root:Writting aaa aaa (a)'s review
+INFO:root:Writting Alexandre Cascio's review
+INFO:root:Writting David Parent's review
+INFO:root:Writting the top with zak's review
+INFO:root:Writting Marie-Laurence Jacob's review
+INFO:root:Writting Syme Happy's review
+INFO:root:Writting Genevieve Lanthier's review
+INFO:root:Writting Mélanie Lafleche's review
+INFO:root:Writting Mat Malette's review
+INFO:root:Writting Alexandre's review
+INFO:root:Writting Lucas Phansa's review
+INFO:root:Finished
+INFO:root:Started
+INFO:root:Getting driver from url: https://www.google.com/maps/place/La+Belle+Tonki/@45.5405424,-73.6016345,17z/data=!4m7!3m6!1s0x4cc91938b54ff6a1:0xc2213cf2b19945f5!8m2!3d45.5405424!4d-73.5994458!9m1!1b1
+INFO:root:There are currently 978 reviews on Google
+INFO:root:Looking for scroll element...
+INFO:root:Start scrolling...
+INFO:root:Scrolling for the 1 time
+INFO:root:Scrolling for the 2 time
+INFO:root:Scrolling for the 3 time
+INFO:root:Scrolling for the 4 time
+INFO:root:Scrolling for the 5 time
+INFO:root:Scrolling for the 6 time
+INFO:root:Scrolling for the 7 time
+INFO:root:Scrolling for the 8 time
+INFO:root:Scrolling for the 9 time
+INFO:root:Scrolling for the 10 time
+INFO:root:Scrolling for the 11 time
+INFO:root:Scrolling for the 12 time
+INFO:root:Scrolling for the 13 time
+INFO:root:Scrolling for the 14 time
+INFO:root:Scrolling for the 15 time
+INFO:root:Scrolling for the 16 time
+INFO:root:Scrolling for the 17 time
+INFO:root:Scrolling for the 18 time
+INFO:root:Scrolling for the 19 time
+INFO:root:Scrolling for the 20 time
+INFO:root:Scrolling for the 21 time
+INFO:root:Scrolling for the 22 time
+INFO:root:Scrolling for the 23 time
+INFO:root:Scrolling for the 24 time
+INFO:root:Scrolling for the 25 time
+INFO:root:Scrolling for the 26 time
+INFO:root:Scrolling for the 27 time
+INFO:root:Scrolling for the 28 time
+INFO:root:Scrolling for the 29 time
+INFO:root:Scrolling for the 30 time
+INFO:root:Scrolling for the 31 time
+INFO:root:Scrolling for the 32 time
+INFO:root:Scrolling for the 33 time
+INFO:root:Scrolling for the 34 time
+INFO:root:Scrolling for the 35 time
+INFO:root:Scrolling for the 36 time
+INFO:root:Scrolling for the 37 time
+INFO:root:Scrolling for the 38 time
+INFO:root:Scrolling for the 39 time
+INFO:root:Scrolling for the 40 time
+INFO:root:Scrolling for the 41 time
+INFO:root:Scrolling for the 42 time
+INFO:root:Scrolling for the 43 time
+INFO:root:Scrolling for the 44 time
+INFO:root:Scrolling for the 45 time
+INFO:root:Scrolling for the 46 time
+INFO:root:Scrolling for the 47 time
+INFO:root:Scrolling for the 48 time
+INFO:root:Scrolling for the 49 time
+INFO:root:Scrolling for the 50 time
+INFO:root:Scrolling for the 51 time
+INFO:root:Scrolling for the 52 time
+INFO:root:Scrolling for the 53 time
+INFO:root:Scrolling for the 54 time
+INFO:root:Scrolling for the 55 time
+INFO:root:Scrolling for the 56 time
+INFO:root:Scrolling for the 57 time
+INFO:root:Scrolling for the 58 time
+INFO:root:Scrolling for the 59 time
+INFO:root:Scrolling for the 60 time
+INFO:root:Scrolling for the 61 time
+INFO:root:Scrolling for the 62 time
+INFO:root:Scrolling for the 63 time
+INFO:root:Scrolling for the 64 time
+INFO:root:Scrolling for the 65 time
+INFO:root:Scrolling for the 66 time
+INFO:root:Scrolling for the 67 time
+INFO:root:Scrolling for the 68 time
+INFO:root:Scrolling for the 69 time
+INFO:root:Scrolling for the 70 time
+INFO:root:Scrolling for the 71 time
+INFO:root:Scrolling for the 72 time
+INFO:root:Scrolling for the 73 time
+INFO:root:Scrolling for the 74 time
+INFO:root:Scrolling for the 75 time
+INFO:root:Scrolling for the 76 time
+INFO:root:Scrolling for the 77 time
+INFO:root:Scrolling for the 78 time
+INFO:root:Scrolling for the 79 time
+INFO:root:Scrolling for the 80 time
+INFO:root:Scrolling for the 81 time
+INFO:root:Scrolling for the 82 time
+INFO:root:Scrolling for the 83 time
+INFO:root:Scrolling for the 84 time
+INFO:root:Scrolling for the 85 time
+INFO:root:Scrolling for the 86 time
+INFO:root:Scrolling for the 87 time
+INFO:root:Scrolling for the 88 time
+INFO:root:Scrolling for the 89 time
+INFO:root:Scrolling for the 90 time
+INFO:root:Scrolling for the 91 time
+INFO:root:Scrolling for the 92 time
+INFO:root:Scrolling for the 93 time
+INFO:root:Scrolling for the 94 time
+INFO:root:Scrolling for the 95 time
+INFO:root:Scrolling for the 96 time
+INFO:root:Scrolling for the 97 time
+INFO:root:Scrolling for the 98 time
+INFO:root:Scrolling for the 99 time
+INFO:root:Scrolling for the 100 time
+INFO:root:Scrolling for the 101 time
+INFO:root:Scrolling for the 102 time
+INFO:root:Scrolling for the 103 time
+INFO:root:Scrolling for the 104 time
+INFO:root:Scrolling for the 105 time
+INFO:root:Scrolling for the 106 time
+INFO:root:Scrolling for the 107 time
+INFO:root:Scrolling for the 108 time
+INFO:root:Scrolling for the 109 time
+INFO:root:Scrolling for the 110 time
+INFO:root:Scrolling for the 111 time
+INFO:root:Scrolling for the 112 time
+INFO:root:Scrolling for the 113 time
+INFO:root:Scrolling for the 114 time
+INFO:root:Scrolling for the 115 time
+INFO:root:Scrolling for the 116 time
+INFO:root:Scrolling for the 117 time
+INFO:root:Scrolling for the 118 time
+INFO:root:Scrolling for the 119 time
+INFO:root:Scrolling for the 120 time
+INFO:root:Scrolling for the 121 time
+INFO:root:Scrolling for the 122 time
+INFO:root:Scrolling for the 123 time
+INFO:root:Scrolling for the 124 time
+INFO:root:Scrolling for the 125 time
+INFO:root:Scrolling for the 126 time
+INFO:root:Scrolling for the 127 time
+INFO:root:Scrolling for the 128 time
+INFO:root:Scrolling for the 129 time
+INFO:root:Scrolling for the 130 time
+INFO:root:Scrolling for the 131 time
+INFO:root:Scrolling for the 132 time
+INFO:root:Scrolling for the 133 time
+INFO:root:Scrolling for the 134 time
+INFO:root:Scrolling for the 135 time
+INFO:root:Scrolling for the 136 time
+INFO:root:Scrolling for the 137 time
+INFO:root:Scrolling for the 138 time
+INFO:root:Scrolling for the 139 time
+INFO:root:Scrolling for the 140 time
+INFO:root:Scrolling for the 141 time
+INFO:root:Scrolling for the 142 time
+INFO:root:Scrolling for the 143 time
+INFO:root:Scrolling for the 144 time
+INFO:root:Scrolling for the 145 time
+INFO:root:Scrolling for the 146 time
+INFO:root:Scrolling for the 147 time
+INFO:root:Scrolling for the 148 time
+INFO:root:Scrolling for the 149 time
+INFO:root:Scrolling for the 150 time
+INFO:root:Scrolling for the 151 time
+INFO:root:Scrolling for the 152 time
+INFO:root:Scrolling for the 153 time
+INFO:root:Scrolling for the 154 time
+INFO:root:Scrolling for the 155 time
+INFO:root:Scrolling for the 156 time
+INFO:root:Scrolling for the 157 time
+INFO:root:Scrolling for the 158 time
+INFO:root:Scrolling for the 159 time
+INFO:root:Scrolling for the 160 time
+INFO:root:Scrolling for the 161 time
+INFO:root:Scrolling for the 162 time
+INFO:root:Scrolling for the 163 time
+INFO:root:Scrolling for the 164 time
+INFO:root:Scrolling for the 165 time
+INFO:root:Scrolling for the 166 time
+INFO:root:Scrolling for the 167 time
+INFO:root:Scrolling for the 168 time
+INFO:root:Scrolling for the 169 time
+INFO:root:Scrolling for the 170 time
+INFO:root:Scrolling for the 171 time
+INFO:root:Scrolling for the 172 time
+INFO:root:Scrolling for the 173 time
+INFO:root:Scrolling for the 174 time
+INFO:root:Scrolling for the 175 time
+INFO:root:Scrolling for the 176 time
+INFO:root:Scrolling for the 177 time
+INFO:root:Scrolling for the 178 time
+INFO:root:Scrolling for the 179 time
+INFO:root:Scrolling for the 180 time
+INFO:root:Scrolling for the 181 time
+INFO:root:Scrolling for the 182 time
+INFO:root:Scrolling for the 183 time
+INFO:root:Scrolling for the 184 time
+INFO:root:Scrolling for the 185 time
+INFO:root:Scrolling for the 186 time
+INFO:root:Scrolling for the 187 time
+INFO:root:Scrolling for the 188 time
+INFO:root:Scrolling for the 189 time
+INFO:root:Scrolling for the 190 time
+INFO:root:Scrolling for the 191 time
+INFO:root:Scrolling for the 192 time
+INFO:root:Scrolling for the 193 time
+INFO:root:Scrolling for the 194 time
+INFO:root:Scrolling for the 195 time
+INFO:root:Scrolling for the 196 time
+INFO:root:Scrolling for the 197 time
+INFO:root:Scrolling for the 198 time
+INFO:root:Start expanding comments
+INFO:root:Start clicking "More" button...
+INFO:root:Start parsing html with beautifulsoup
+INFO:root:Writting Marjolaine G's review
+INFO:root:Writting Pierre Ngo's review
+INFO:root:Writting Willowspritew W's review
+INFO:root:Writting Khash A.'s review
+INFO:root:Writting Tracy Schmidt's review
+INFO:root:Writting J Ortega's review
+INFO:root:Writting Trong Anh Vu's review
+INFO:root:Writting Ruofan Yin's review
+INFO:root:Writting Richly Tran's review
+INFO:root:Writting Sue W.'s review
+INFO:root:Writting Julia Hong's review
+INFO:root:Writting Karen Wan's review
+INFO:root:Writting Christina Chehade's review
+INFO:root:Writting Sandra Panic's review
+INFO:root:Writting Seb H Miller's review
+INFO:root:Writting Zanna Raya's review
+INFO:root:Writting Jean-francois Rosato's review
+INFO:root:Writting David-Alexandre Hauben's review
+INFO:root:Writting Sam Karb's review
+INFO:root:Writting ScoobiNikki6's review
+INFO:root:Writting Kévarine's review
+INFO:root:Writting Andy N's review
+INFO:root:Writting Cindy Nguyen's review
+INFO:root:Writting Emma Tiger's review
+INFO:root:Writting nocap's review
+INFO:root:Writting Brittany Williams's review
+INFO:root:Writting Fuentes's review
+INFO:root:Writting Eliane Barb's review
+INFO:root:Writting Jessy Tardif's review
+INFO:root:Writting Vi Van Phan's review
+INFO:root:Writting Matt Langis's review
+INFO:root:Writting O Sinbadinho's review
+INFO:root:Writting Ali Arzouni's review
+INFO:root:Writting Diana Nguyen's review
+INFO:root:Writting David Grey's review
+INFO:root:Writting Maryse Dupuis's review
+INFO:root:Writting David Vu's review
+INFO:root:Writting Cat's review
+INFO:root:Writting Matthew Haley's review
+INFO:root:Writting Mihai Octavian Popescu's review
+INFO:root:Writting Jenny Fish's review
+INFO:root:Writting Shanti Gonzales's review
+INFO:root:Writting Bilodeau Y.Alexandra's review
+INFO:root:Writting Dong Nam Nguyen's review
+INFO:root:Writting Camille Ferrandez's review
+INFO:root:Writting Ashley K's review
+INFO:root:Writting Jean-Sébastien Leclerc's review
+INFO:root:Writting MC SULY's review
+INFO:root:Writting Catherine Raymond-Poirier's review
+INFO:root:Writting CAI GAN XIAN Lucas's review
+INFO:root:Writting Bruno Leduc's review
+INFO:root:Writting J. Style's review
+INFO:root:Writting Ray Ng's review
+INFO:root:Writting Marie-Eve's review
+INFO:root:Writting Shohorab Hoque's review
+INFO:root:Writting Pineapple Xo's review
+INFO:root:Writting Daniel Lavigueur's review
+INFO:root:Writting Andrew Sisk's review
+INFO:root:Writting Iyand Peterson's review
+INFO:root:Writting Shelby R's review
+INFO:root:Writting Dima Ghattas's review
+INFO:root:Writting Pedro Herrera's review
+INFO:root:Writting Lisbuns The Great's review
+INFO:root:Writting Marky_marc's review
+INFO:root:Writting Mayhem x's review
+INFO:root:Writting Lydia Galvez-C.'s review
+INFO:root:Writting Jose Veloso's review
+INFO:root:Writting Anne Shiraishi's review
+INFO:root:Writting Stanley .Luu's review
+INFO:root:Writting sqz's review
+INFO:root:Writting Alexandra de Fourestier's review
+INFO:root:Writting Melanie Maxine Doucet's review
+INFO:root:Writting Onigiiri uwu's review
+INFO:root:Writting Filip Topic's review
+INFO:root:Writting Varun Tejpal's review
+INFO:root:Writting fojan najafzadehkhoei's review
+INFO:root:Writting Angel Rodriguez's review
+INFO:root:Writting Paigu Fan's review
+INFO:root:Writting Elodie M.'s review
+INFO:root:Writting Julie's review
+INFO:root:Writting Michael Gagliano's review
+INFO:root:Writting Simon Gervais-Quiblat's review
+INFO:root:Writting jonathan flesh's review
+INFO:root:Writting Adam Gaunt's review
+INFO:root:Writting Evens Bonègre's review
+INFO:root:Writting David Vadoud Naderi's review
+INFO:root:Writting Cosmin Jelea's review
+INFO:root:Writting Patrick Ma's review
+INFO:root:Writting Jennifer Lake Goodman's review
+INFO:root:Writting Ernest Wong's review
+INFO:root:Writting PoLee DB's review
+INFO:root:Writting Jeff L.'s review
+INFO:root:Writting akim acacia's review
+INFO:root:Writting Aba Atlas's review
+INFO:root:Writting Maria Trujillo's review
+INFO:root:Writting Young Buck's review
+INFO:root:Writting Shefali Patel's review
+INFO:root:Writting Viet Nguyen-Duong's review
+INFO:root:Writting Omar Talbi's review
+INFO:root:Writting Sarah Glynn's review
+INFO:root:Writting Natalia dls's review
+INFO:root:Writting Joel Mensah's review
+INFO:root:Writting Boris Khramtsov's review
+INFO:root:Writting aline dangourian's review
+INFO:root:Writting Jocelyne Bourgeois's review
+INFO:root:Writting Jojo Labo's review
+INFO:root:Writting rémi Ducharme's review
+INFO:root:Writting Shiho M (S. Durand)'s review
+INFO:root:Writting Kenneth Bourgon's review
+INFO:root:Writting Ray's review
+INFO:root:Writting Ryad Hafiz FlyP's review
+INFO:root:Writting DLAM's review
+INFO:root:Writting Xavier Bédard-La Rocque's review
+INFO:root:Writting Javier Johnson's review
+INFO:root:Writting chantra c's review
+INFO:root:Writting Catherine Cimon-Paquet's review
+INFO:root:Writting Blackkjack21's review
+INFO:root:Writting Krystina Dejean's review
+INFO:root:Writting Rod Young's review
+INFO:root:Writting Pedro Furtado's review
+INFO:root:Writting marie bilodeau's review
+INFO:root:Writting Dave Dush's review
+INFO:root:Writting Lucas D's review
+INFO:root:Writting Mike M's review
+INFO:root:Writting Xavier Nguyen's review
+INFO:root:Writting Ketya Thoeum's review
+INFO:root:Writting Alex Nelson's review
+INFO:root:Writting Lassaad Mestiri's review
+INFO:root:Writting Mathieu Roy-Caissy's review
+INFO:root:Writting Greg St-Elien's review
+INFO:root:Writting Kelly Silver's review
+INFO:root:Writting Winh's's review
+INFO:root:Writting Estelle's review
+INFO:root:Writting Keziah Yamamoto's review
+INFO:root:Writting john kefallinos's review
+INFO:root:Writting Anthony Palomeque's review
+INFO:root:Writting Hugo Latendresse's review
+INFO:root:Writting S LeComte's review
+INFO:root:Writting Rémi Doutre's review
+INFO:root:Writting Jimmy Perron's review
+INFO:root:Writting Chantal Bailey's review
+INFO:root:Writting Nadia Foti's review
+INFO:root:Writting walid achour's review
+INFO:root:Writting Christopher Calado's review
+INFO:root:Writting Lindsay-Dora Germain's review
+INFO:root:Writting Ely Hailman's review
+INFO:root:Writting RICHOU Zzz's review
+INFO:root:Writting Guillaume Blain's review
+INFO:root:Writting milan pham's review
+INFO:root:Writting Jordan Chan's review
+INFO:root:Writting Julie Mondor's review
+INFO:root:Writting king karl's review
+INFO:root:Writting Jim Johnson's review
+INFO:root:Writting Gordon Ramsay's review
+INFO:root:Writting Philippe Adrianakis's review
+INFO:root:Writting R Zugrav's review
+INFO:root:Writting Philip Abernethy's review
+INFO:root:Writting Maria Marsli's review
+INFO:root:Writting Olivier G's review
+INFO:root:Writting Georgina Avila's review
+INFO:root:Writting Boravy Thay's review
+INFO:root:Writting John Maiorano's review
+INFO:root:Writting T Shong's review
+INFO:root:Writting Jia's review
+INFO:root:Writting A M's review
+INFO:root:Writting Herr Fritz's review
+INFO:root:Writting Whamzi Gogoole's review
+INFO:root:Writting Christine Wilson's review
+INFO:root:Writting Anthony Blair's review
+INFO:root:Writting Phillip Thérien's review
+INFO:root:Writting Ra Pha's review
+INFO:root:Writting Laurie Harnois-Langlois's review
+INFO:root:Writting Nicole Pasricha's review
+INFO:root:Writting Dori Khalaf's review
+INFO:root:Writting Michael Chau's review
+INFO:root:Writting Jose Sanchez's review
+INFO:root:Writting Nero9937's review
+INFO:root:Writting Rob Birchall's review
+INFO:root:Writting Sandwich da Marco Subs & Salads's review
+INFO:root:Writting Nrj Sr's review
+INFO:root:Writting Marco Caron's review
+INFO:root:Writting Johnny Keomanyla's review
+INFO:root:Writting Jasmine None's review
+INFO:root:Writting Minh Tran's review
+INFO:root:Writting Chastity Osborne's review
+INFO:root:Writting pen deho's review
+INFO:root:Writting Jennifer Pierre's review
+INFO:root:Writting Andrew's review
+INFO:root:Writting Lorena Cristi's review
+INFO:root:Writting Thomas's review
+INFO:root:Writting Guillaume's review
+INFO:root:Writting Dustin Deveau's review
+INFO:root:Writting Sarin B. Picard's review
+INFO:root:Writting Fred Lacoste's review
+INFO:root:Writting scubobhog's review
+INFO:root:Writting Neslihan Yurtsever's review
+INFO:root:Writting Elie's review
+INFO:root:Writting Simon B's review
+INFO:root:Writting Julie Bee's review
+INFO:root:Writting F. Benard's review
+INFO:root:Writting Daniel A's review
+INFO:root:Writting Simon Chang's review
+INFO:root:Writting Yannick Wolfe's review
+INFO:root:Writting Shelley Porcheron McGill's review
+INFO:root:Writting Colin MacKenzie's review
+INFO:root:Writting Olivier Dallaire-Savard's review
+INFO:root:Writting Farouk Laimeur's review
+INFO:root:Writting Andre LeDre's review
+INFO:root:Writting Salim Adamon's review
+INFO:root:Writting Harry Hilaire's review
+INFO:root:Writting Ja 'Knows's review
+INFO:root:Writting Elie-Anne Ross's review
+INFO:root:Writting Daniel Aldana's review
+INFO:root:Writting Natasha Jean-Bart's review
+INFO:root:Writting Julie B.Savard's review
+INFO:root:Writting Laurent G's review
+INFO:root:Writting Lorena Zamora's review
+INFO:root:Writting Sweet La Rock's review
+INFO:root:Writting Julien Tessier's review
+INFO:root:Writting Paul Y.'s review
+INFO:root:Writting andrea palmer's review
+INFO:root:Writting Minh phansa's review
+INFO:root:Writting Miles Dozier's review
+INFO:root:Writting Erica Mina Deypalubos's review
+INFO:root:Writting PhaNTOm mastaX's review
+INFO:root:Writting PCK Inc.'s review
+INFO:root:Writting Tiago Silva's review
+INFO:root:Writting Enn Vee's review
+INFO:root:Writting Tweet Isabelle's review
+INFO:root:Writting Richard Huard's review
+INFO:root:Writting Kev’'s review
+INFO:root:Writting Keniya-Frédérika Jean's review
+INFO:root:Writting Mathieu Bastien-Dupuis's review
+INFO:root:Writting Monica Biloz's review
+INFO:root:Writting Valéry Paquette's review
+INFO:root:Writting Anne-Cécile GAMBIN's review
+INFO:root:Writting dominique bourhis's review
+INFO:root:Writting Karine S.'s review
+INFO:root:Writting Julie L’heureux's review
+INFO:root:Writting Kassandra Guerrero's review
+INFO:root:Writting Areku's review
+INFO:root:Writting Etienne Gelinas's review
+INFO:root:Writting Runninng Dis-ASS-Ter's review
+INFO:root:Writting Andréanne Racine's review
+INFO:root:Writting Salomé AB's review
+INFO:root:Writting Félix Milot's review
+INFO:root:Writting Xavier Bernet's review
+INFO:root:Writting Tony Quin NGUYEN's review
+INFO:root:Writting Félix Boulet's review
+INFO:root:Writting Mylène Lefebvre's review
+INFO:root:Writting Noémi Côté-Cyr's review
+INFO:root:Writting Élisabeth M's review
+INFO:root:Writting Sophie Renard's review
+INFO:root:Writting Daphnée Simard's review
+INFO:root:Writting J_ AM's review
+INFO:root:Writting E. C.'s review
+INFO:root:Writting Amélie Gauthier's review
+INFO:root:Writting Gabrielle Marchand's review
+INFO:root:Writting Mathieu Archambault's review
+INFO:root:Writting Marco Brunelle's review
+INFO:root:Writting Felix Letourneau's review
+INFO:root:Writting Teressa Hernandez's review
+INFO:root:Writting Pierre-Olivier Jetté's review
+INFO:root:Writting Camille Eisenblaetter's review
+INFO:root:Writting Camille Gélinas-Fafard's review
+INFO:root:Writting Laetitia Boonsri-Beaudet's review
+INFO:root:Writting Clément lemaitre's review
+INFO:root:Writting Nickolas Sacolax's review
+INFO:root:Writting Jimmy Fitzback's review
+INFO:root:Writting Van Phuong Francoise Khan's review
+INFO:root:Writting Olivier Lam's review
+INFO:root:Writting Michaël Bégin's review
+INFO:root:Writting Lucie Blazkowski's review
+INFO:root:Writting Élisabeth Daigle's review
+INFO:root:Writting emmanuel ternize's review
+INFO:root:Writting Giraffe Bleue's review
+INFO:root:Writting s Jcole's review
+INFO:root:Writting nicolas moral's review
+INFO:root:Writting Mathieu Marsolais's review
+INFO:root:Writting Big Bong's review
+INFO:root:Writting Emilie Arsenault's review
+INFO:root:Writting Eric Bélanger's review
+INFO:root:Writting Alix Bouchard's review
+INFO:root:Writting Magali Paquette-Torres's review
+INFO:root:Writting Le Ouim's review
+INFO:root:Writting Marie-Claude “MC” Dion's review
+INFO:root:Writting Pauline Prevot's review
+INFO:root:Writting Charlotte Cordier's review
+INFO:root:Writting Marie B.'s review
+INFO:root:Writting Lou-Anne Guillemet's review
+INFO:root:Writting Jade Cantin-Lefebvre's review
+INFO:root:Writting Alexandre Bourlon's review
+INFO:root:Writting V. Ro's review
+INFO:root:Writting Yosr L-K's review
+INFO:root:Writting Richard Lao's review
+INFO:root:Writting Carolanne Zanth's review
+INFO:root:Writting Ève Renaud-Roy's review
+INFO:root:Writting Michel Lim's review
+INFO:root:Writting Viriane Pes's review
+INFO:root:Writting yoga shak's review
+INFO:root:Writting Catherine's review
+INFO:root:Writting Madden Investments's review
+INFO:root:Writting Seb Humphrey's review
+INFO:root:Writting m roby's review
+INFO:root:Writting Lea Verville's review
+INFO:root:Writting Sandra Doyon's review
+INFO:root:Writting A. Bouchard's review
+INFO:root:Writting Huge The HUGE's review
+INFO:root:Writting Elisabeth Henry's review
+INFO:root:Writting Gigi Huynh's review
+INFO:root:Writting Sarah's review
+INFO:root:Writting Vincent BALDINI's review
+INFO:root:Writting Weeni Joseph's review
+INFO:root:Writting marlene contreras's review
+INFO:root:Writting Léa R. Tremblay's review
+INFO:root:Writting Anh TD's review
+INFO:root:Writting Julie Lamothe's review
+INFO:root:Writting Julien D-C's review
+INFO:root:Writting michiiimich's review
+INFO:root:Writting Camille Beauchamp's review
+INFO:root:Writting Had Rav's review
+INFO:root:Writting Judith Gaudreau's review
+INFO:root:Writting Samuel Hottote's review
+INFO:root:Writting Pascal Hubert's review
+INFO:root:Writting fanny sirard's review
+INFO:root:Writting Celica Sea's review
+INFO:root:Writting Sebastien Tremblay's review
+INFO:root:Writting sophie demers béchire's review
+INFO:root:Writting Maïlys BESSIERE's review
+INFO:root:Writting Isabelle Juneau Show's review
+INFO:root:Writting Mark Prime's review
+INFO:root:Writting Gabriel Girard's review
+INFO:root:Writting Patricia Trepanier's review
+INFO:root:Writting Nadim Tadjine's review
+INFO:root:Writting Maxime Thebean's review
+INFO:root:Writting Emma's review
+INFO:root:Writting mathieu salvail's review
+INFO:root:Writting Cindy Hoang's review
+INFO:root:Writting Eugénie Lévis's review
+INFO:root:Writting Alder Pierre's review
+INFO:root:Writting P. M.'s review
+INFO:root:Writting Sara Bodson's review
+INFO:root:Writting Dominic Norman's review
+INFO:root:Writting Nancy Bastien's review
+INFO:root:Writting Geneviève Thériault Tanguay's review
+INFO:root:Writting Corentin Berdah's review
+INFO:root:Writting Mario Tremblay's review
+INFO:root:Writting Isabelle Michaud's review
+INFO:root:Writting Alexia Grenier's review
+INFO:root:Writting Marta Rosa's review
+INFO:root:Writting Yves Alavo's review
+INFO:root:Writting Daphné Olivier-Aimé's review
+INFO:root:Writting Vicki Grenier's review
+INFO:root:Writting Soup's review
+INFO:root:Writting Gen Green's review
+INFO:root:Writting Céline Gégat's review
+INFO:root:Writting Tin NGUYEN's review
+INFO:root:Writting Romain's review
+INFO:root:Writting Guillaume Briand's review
+INFO:root:Writting KorriganChief “KorriganChief”'s review
+INFO:root:Writting Santi Sananikone's review
+INFO:root:Writting B R's review
+INFO:root:Writting Miss K S's review
+INFO:root:Writting Etienne Barron's review
+INFO:root:Writting Sabreen Sml's review
+INFO:root:Writting Vincent Leclerc's review
+INFO:root:Writting Alexandra Desjardins's review
+INFO:root:Writting Etienne D-P.'s review
+INFO:root:Writting Lara Nguyen's review
+INFO:root:Writting Olivier Barron's review
+INFO:root:Writting Patricia Tremblay's review
+INFO:root:Writting Geneviève Beauchamp's review
+INFO:root:Writting Jeremy Hong's review
+INFO:root:Writting Antoine-Samuel Mauffette Alavo (ASMA)'s review
+INFO:root:Writting El Alia Moussouni's review
+INFO:root:Writting Andrea H's review
+INFO:root:Writting master yoga's review
+INFO:root:Writting Geneviève Lacouline's review
+INFO:root:Writting James Saville's review
+INFO:root:Writting Benjamin Abrivard's review
+INFO:root:Writting labellaluna07 Gilles's review
+INFO:root:Writting Marie-Caroline Lemieux's review
+INFO:root:Writting Stéphanie Vaudry's review
+INFO:root:Writting Tristan Dubois's review
+INFO:root:Writting Kahina's review
+INFO:root:Writting wiston ortiz's review
+INFO:root:Writting Andreas Ihm's review
+INFO:root:Writting nadia bilodeau's review
+INFO:root:Writting Katiana Louissaint's review
+INFO:root:Writting Roxanne Bazinet's review
+INFO:root:Writting Mariane Richard's review
+INFO:root:Writting stacy Bellance's review
+INFO:root:Writting Joanie Geoffroy's review
+INFO:root:Writting Menahan Delorme O'Bomsawin's review
+INFO:root:Writting Mathieu Boucher's review
+INFO:root:Writting Louis Godbout's review
+INFO:root:Writting Auguste tene's review
+INFO:root:Writting Cathie-Anne Dupuis's review
+INFO:root:Writting Eric Faussurier's review
+INFO:root:Writting Virginie DANG's review
+INFO:root:Writting Rose stmnd's review
+INFO:root:Writting Lauwence Noel's review
+INFO:root:Writting Geneviève Beauregard's review
+INFO:root:Writting Israel Montplaisir Benedict's review
+INFO:root:Writting jean sébastien Raymond's review
+INFO:root:Writting Félix Pelletier's review
+INFO:root:Writting Valerie Bouchard's review
+INFO:root:Writting Aurore Bertin's review
+INFO:root:Writting Maude's review
+INFO:root:Writting Leo Fabrello's review
+INFO:root:Writting Laurie Beauchamp's review
+INFO:root:Writting Emma Campbell's review
+INFO:root:Writting HengOver's review
+INFO:root:Writting Paschendael's review
+INFO:root:Writting Vincent Beaulieu's review
+INFO:root:Writting Dvd 160's review
+INFO:root:Writting Sars 93's review
+INFO:root:Writting Karlhens Pierre-Louis's review
+INFO:root:Writting Émilie Poirier's review
+INFO:root:Writting Stephane Bo's review
+INFO:root:Writting Noe B.'s review
+INFO:root:Writting Mélina Nantel's review
+INFO:root:Writting Jean Lapointe's review
+INFO:root:Writting Maude Gauthier's review
+INFO:root:Writting Tere Yoshi's review
+INFO:root:Writting Simon Chartier's review
+INFO:root:Writting Julie Mannering's review
+INFO:root:Writting Robin R.'s review
+INFO:root:Writting Elena R's review
+INFO:root:Writting Simon Jacques-Ricard's review
+INFO:root:Writting Marie-Ève Couture's review
+INFO:root:Writting Sandra Thiel's review
+INFO:root:Writting Roula Karaziwan's review
+INFO:root:Writting Samantha Denzler's review
+INFO:root:Writting Maryléna Bussières's review
+INFO:root:Writting Olivier Clément's review
+INFO:root:Writting Louis D.'s review
+INFO:root:Writting Genevieve Pilon's review
+INFO:root:Writting Max's review
+INFO:root:Writting Sieang Quach's review
+INFO:root:Writting Luc Labonté's review
+INFO:root:Writting Mehdi Tafraoui's review
+INFO:root:Writting stephanie gagne's review
+INFO:root:Writting Tran TT's review
+INFO:root:Writting Vee G's review
+INFO:root:Writting Selkiri Hihi's review
+INFO:root:Writting Richard Moiroud's review
+INFO:root:Writting Maïté Tanguay's review
+INFO:root:Writting Francis Lajeunesse's review
+INFO:root:Writting Olivier Lord's review
+INFO:root:Writting Prima Danse's review
+INFO:root:Writting Francis Gaudreau's review
+INFO:root:Writting yoan painchaud's review
+INFO:root:Writting Windy Hua's review
+INFO:root:Writting Georgia Vannier's review
+INFO:root:Writting Diego's review
+INFO:root:Writting Patricia Dumont's review
+INFO:root:Writting Marie-Michèle Beaumont's review
+INFO:root:Writting Simon Rosa's review
+INFO:root:Writting AM Braconnier's review
+INFO:root:Writting Whereisthefood's review
+INFO:root:Writting Emmanuelle Beauchamp's review
+INFO:root:Writting Marine Simonnet-Lemeune's review
+INFO:root:Writting steve bouvet's review
+INFO:root:Writting Laurence Gagné's review
+INFO:root:Writting Frédérique Létourneau's review
+INFO:root:Writting Gabriel Tesser's review
+INFO:root:Writting Alexis Bourdages's review
+INFO:root:Writting Didier M's review
+INFO:root:Writting Steven “Monsieur F” Ferlatte's review
+INFO:root:Writting Alexandre Brunet's review
+INFO:root:Writting Guillaume Cornille's review
+INFO:root:Writting Donald Bélec's review
+INFO:root:Writting Xavier Flériag's review
+INFO:root:Writting Merryl B. Lavoie's review
+INFO:root:Writting P. Marie's review
+INFO:root:Writting Francis Tanguay's review
+INFO:root:Writting Victoire Ranger's review
+INFO:root:Writting Regg Fleury's review
+INFO:root:Writting Fred Lacharite's review
+INFO:root:Writting Gabriella's review
+INFO:root:Writting Marie-Eve “Kity Cat” Barbin's review
+INFO:root:Writting Antonella De Troia's review
+INFO:root:Writting Chef Loso's review
+INFO:root:Writting Nathalie St Aubin's review
+INFO:root:Writting Émilie Fecteau's review
+INFO:root:Writting Francois Des Rochers's review
+INFO:root:Writting Nathalie Robitaille's review
+INFO:root:Writting Charly SOLANO's review
+INFO:root:Writting gina brault's review
+INFO:root:Writting René Tung's review
+INFO:root:Writting Rick Vo's review
+INFO:root:Writting Marie-Eve Desroches's review
+INFO:root:Writting Rebe Chulita's review
+INFO:root:Writting Simon Anctil-Raymond's review
+INFO:root:Writting Jenny's review
+INFO:root:Writting Jean-François Dumais's review
+INFO:root:Writting Carole Gareau's review
+INFO:root:Writting Mircea Radu Takacs's review
+INFO:root:Writting gabrielle surprenant's review
+INFO:root:Writting Diane Gosselin's review
+INFO:root:Writting Cassandre Sévigny-Lapointe's review
+INFO:root:Writting Félix Lachance's review
+INFO:root:Writting Patrick Delisle (Padel)'s review
+INFO:root:Writting Pierre André Bedard's review
+INFO:root:Writting Marc-Olivier Lacroix's review
+INFO:root:Writting Martine Bruneau's review
+INFO:root:Writting Elodie Desmarais's review
+INFO:root:Writting Azalée .Thérien's review
+INFO:root:Writting Élise Anctil-Raymond's review
+INFO:root:Writting mathieu cauchon's review
+INFO:root:Writting Anabel Vasquez's review
+INFO:root:Writting Pier-Olivier Desmarais's review
+INFO:root:Writting Eric Rouleau's review
+INFO:root:Writting Jo De's review
+INFO:root:Writting William Laplante's review
+INFO:root:Writting Ian Riverin's review
+INFO:root:Writting Maximilien Lemieux's review
+INFO:root:Writting A. Santos's review
+INFO:root:Writting GeraldNat's review
+INFO:root:Writting Lucile Jusserand-Mazaud's review
+INFO:root:Writting Myan's review
+INFO:root:Writting Philippe Lemire's review
+INFO:root:Writting Denis Teasdale's review
+INFO:root:Writting Niti Marcelle Mueth's review
+INFO:root:Writting Loïc Yavercovski's review
+INFO:root:Writting Tinta Barthélémy's review
+INFO:root:Writting Nesma Matar's review
+INFO:root:Writting Jean-Francois Gregoire's review
+INFO:root:Writting Francois Grondin's review
+INFO:root:Writting Lucie Chrétien's review
+INFO:root:Writting Tristan's review
+INFO:root:Writting Parissier Marion's review
+INFO:root:Writting Larissa's review
+INFO:root:Writting Olivia C's review
+INFO:root:Writting Paulo Heaven's review
+INFO:root:Writting Michel Martel's review
+INFO:root:Writting Vincent Desjardins's review
+INFO:root:Writting Anne Cyr's review
+INFO:root:Writting Adrien Moulinas's review
+INFO:root:Writting marie-chantal Bourgeois's review
+INFO:root:Writting Renaud Payant-Hébert's review
+INFO:root:Writting Jean-Pierre Lafond's review
+INFO:root:Writting Luc Dumontet's review
+INFO:root:Writting marie-noelle fortin's review
+INFO:root:Writting Marie-Pier O's review
+INFO:root:Writting Amelia Domenchini's review
+INFO:root:Writting Geneviève Landry's review
+INFO:root:Writting Élizabeth Taillon's review
+INFO:root:Writting Alex Gironde's review
+INFO:root:Writting Philippe Francoeur's review
+INFO:root:Writting Simon Therien's review
+INFO:root:Writting yann nolan's review
+INFO:root:Writting Jean-Francois Pilgrim's review
+INFO:root:Writting marion vivien's review
+INFO:root:Writting Maël Davan-Soulas's review
+INFO:root:Writting Roberto Martin's review
+INFO:root:Writting Stephane Beaudet's review
+INFO:root:Writting Guillaume Catineau's review
+INFO:root:Writting Ivan Jijon's review
+INFO:root:Writting Vincent Coupal's review
+INFO:root:Writting Anj Art's review
+INFO:root:Writting Laura Horta-Adam's review
+INFO:root:Writting Roxane Lavertue's review
+INFO:root:Writting Marc-Antoine Senécal's review
+INFO:root:Writting Gérard Guillemette's review
+INFO:root:Writting Académie Périnatale's review
+INFO:root:Writting Marc-André Viau's review
+INFO:root:Writting Joannie Bélanger's review
+INFO:root:Writting aaa aaa (a)'s review
+INFO:root:Writting Alexandre Cascio's review
+INFO:root:Writting David Parent's review
+INFO:root:Writting the top with zak's review
+INFO:root:Writting Marie-Laurence Jacob's review
+INFO:root:Writting Syme Happy's review
+INFO:root:Writting Genevieve Lanthier's review
+INFO:root:Writting Mélanie Lafleche's review
+INFO:root:Writting Mat Malette's review
+INFO:root:Writting Alexandre's review
+INFO:root:Writting Lucas Phansa's review
+INFO:root:Writting Caroline Côté's review
+INFO:root:Writting Florence Deguire's review
+INFO:root:Writting Johanne Lamdry's review
+INFO:root:Writting Amine Kasdali's review
+INFO:root:Writting Damien Thorn's review
+INFO:root:Writting Laurence Dufresne's review
+INFO:root:Writting Hamoud Habjia's review
+INFO:root:Writting nani nan's review
+INFO:root:Writting Nicolas Landry's review
+INFO:root:Writting Émilie Joly's review
+INFO:root:Writting Eva FAVEL's review
+INFO:root:Writting Louis-thomas Lagace's review
+INFO:root:Writting Derek Lecours's review
+INFO:root:Writting marilew demers's review
+INFO:root:Writting Donald Dada's review
+INFO:root:Writting Lyna Terk's review
+INFO:root:Writting Jazz Ma's review
+INFO:root:Writting Cynthia Massé's review
+INFO:root:Writting Martin Charron's review
+INFO:root:Writting Robert Bolestridge's review
+INFO:root:Writting Catherine Hotte's review
+INFO:root:Writting Antoine Moisan's review
+INFO:root:Writting marianne chartrand's review
+INFO:root:Writting David Beaudoin's review
+INFO:root:Writting Gregory Duval's review
+INFO:root:Writting Emily's review
+INFO:root:Writting Claudie Daoust's review
+INFO:root:Writting Raph75m's review
+INFO:root:Writting sabrina dupont's review
+INFO:root:Writting Karl Gailler's review
+INFO:root:Writting Hamza Adhaim's review
+INFO:root:Writting Viet-Thanh Tran's review
+INFO:root:Writting R Desvignes's review
+INFO:root:Writting Yann Debonnel's review
+INFO:root:Writting m-p F's review
+INFO:root:Writting kkk kkk's review
+INFO:root:Writting Jean-Philippe Thinel's review
+INFO:root:Writting Philippe Petitpas's review
+INFO:root:Writting Etienne Clement's review
+INFO:root:Writting Sothea Chhum's review
+INFO:root:Writting Mélanie Brière's review
+INFO:root:Writting Kevin Reggie Joseph's review
+INFO:root:Writting aLx D's review
+INFO:root:Writting Benjamin's review
+INFO:root:Writting David Matieu Santerre's review
+INFO:root:Writting Floramama's review
+INFO:root:Writting Frédéric Chalté's review
+INFO:root:Writting Graciela Piccardi's review
+INFO:root:Writting Marie-Eve X's review
+INFO:root:Writting Evan Prodromou's review
+INFO:root:Writting Luc Lavoie's review
+INFO:root:Writting léa imbeau's review
+INFO:root:Writting kathleen thivierge's review
+INFO:root:Writting Louis Jeay-Beaulieu's review
+INFO:root:Writting Benoit St-Onge's review
+INFO:root:Writting Chris H's review
+INFO:root:Writting Maryane Drouin's review
+INFO:root:Writting Chenoa De La Cruz's review
+INFO:root:Writting Camille garrouste's review
+INFO:root:Writting Joseph Denis-Pelletier's review
+INFO:root:Writting Jessica Kojayan's review
+INFO:root:Writting Alexandre Ayotte's review
+INFO:root:Writting Kihana Belisle's review
+INFO:root:Writting Ryan Faddy's review
+INFO:root:Writting Lucas Bitsch's review
+INFO:root:Writting Laurence Lemieux's review
+INFO:root:Writting Faniry Randriamaniraka's review
+INFO:root:Writting Camille Duchesne's review
+INFO:root:Writting alejandra ave's review
+INFO:root:Writting Xuan Nguyen's review
+INFO:root:Writting Aria Hk's review
+INFO:root:Writting Iman Niki's review
+INFO:root:Writting Sarah Stéphanie Cliche's review
+INFO:root:Writting Fabio De Sa's review
+INFO:root:Writting Zacharie Tournon-Martin's review
+INFO:root:Writting Jocelyn Leduc's review
+INFO:root:Writting Christine Drouin's review
+INFO:root:Writting Joël Paquette's review
+INFO:root:Writting Maxime Thibault's review
+INFO:root:Writting Ferdi's review
+INFO:root:Writting Roxanne Courchesne's review
+INFO:root:Writting Rolando Alfaro's review
+INFO:root:Writting Jean-Pierre's review
+INFO:root:Writting Bruno Duguay's review
+INFO:root:Writting Alex Tran's review
+INFO:root:Writting Alexandre Émond's review
+INFO:root:Writting Eric Boulianne-Roy's review
+INFO:root:Writting Jennifer Ilfra's review
+INFO:root:Writting Thibaut Colmet Daâge's review
+INFO:root:Writting Ian Lagarde's review
+INFO:root:Writting Tayeb Zitouni's review
+INFO:root:Writting MissDiorCherie1990's review
+INFO:root:Writting Miguel Galvis Pedrosa's review
+INFO:root:Writting Sarah Med's review
+INFO:root:Writting Henri Sasseville's review
+INFO:root:Writting Alexandre Loiselle-Schiettekatte's review
+INFO:root:Writting Martin Leclerc's review
+INFO:root:Writting Seb Jean's review
+INFO:root:Writting J K's review
+INFO:root:Writting Hudon Isabelle's review
+INFO:root:Writting Julien Bernier Pelletier's review
+INFO:root:Writting Marco Molle's review
+INFO:root:Writting Kim Bernatchez's review
+INFO:root:Writting Olivier Canuel Ouellet's review
+INFO:root:Writting Eric JonesCadieux's review
+INFO:root:Writting Ny Fanilo Andrianjafy's review
+INFO:root:Writting Natasha Ant's review
+INFO:root:Writting Julian Thomas's review
+INFO:root:Writting Siloe P's review
+INFO:root:Writting Samuel Poirier's review
+INFO:root:Writting dianna hua's review
+INFO:root:Writting Alexandre Talbot's review
+INFO:root:Writting Colombine Trudel's review
+INFO:root:Writting Jean-Michel Couture's review
+INFO:root:Writting Nicolas Barbeau's review
+INFO:root:Writting Donny Bui Khac's review
+INFO:root:Writting N/A's review
+INFO:root:Writting Charles T's review
+INFO:root:Writting Leanne L's review
+INFO:root:Writting Marisa D's review
+INFO:root:Writting Damir Metz-Fleury's review
+INFO:root:Writting Kim Pham's review
+INFO:root:Writting Tomy Parasaurolophus's review
+INFO:root:Writting Rémy Dolbec-Pilon's review
+INFO:root:Writting Marché Floh Floh Market's review
+INFO:root:Writting Simon Chayet's review
+INFO:root:Writting Devin's review
+INFO:root:Writting Provimax Faillon's review
+INFO:root:Writting luc fortin's review
+INFO:root:Writting DJ BUSHDAKA's review
+INFO:root:Writting Guyane Beaulieu's review
+INFO:root:Writting asamia T's review
+INFO:root:Writting Emmanuel De Medeiros's review
+INFO:root:Writting Corey Slevinsky's review
+INFO:root:Writting Camille Auble's review
+INFO:root:Writting Lupin's review
+INFO:root:Writting Jennifer S's review
+INFO:root:Writting Mia Peixinho's review
+INFO:root:Writting Brigitte Therrien's review
+INFO:root:Writting Danny Clement's review
+INFO:root:Writting Catherine Drolet's review
+INFO:root:Writting Louis Laliberte's review
+INFO:root:Writting Jérémy Darveau (Altharos)'s review
+INFO:root:Writting prosper soundron's review
+INFO:root:Writting Wiem Soufia's review
+INFO:root:Writting Cynthia Tanguay's review
+INFO:root:Writting TJ Hui's review
+INFO:root:Writting Marc-André Rivard's review
+INFO:root:Writting Béa G's review
+INFO:root:Writting Na He's review
+INFO:root:Writting Eliane Beauregard's review
+INFO:root:Writting gaëlle legrand's review
+INFO:root:Writting Josee roxanne Brousseau's review
+INFO:root:Writting Julian Desforges's review
+INFO:root:Writting Katherine Bouchard's review
+INFO:root:Writting cio boivin's review
+INFO:root:Writting Hugo Lafrance's review
+INFO:root:Writting steven c's review
+INFO:root:Writting Kin Fay Shek's review
+INFO:root:Writting Kristel Salesse's review
+INFO:root:Writting Mai Lynn Le's review
+INFO:root:Writting Philippe Marcotte's review
+INFO:root:Writting Jenny Soleil's review
+INFO:root:Writting Andréanne M's review
+INFO:root:Writting Morgane BONNET's review
+INFO:root:Writting Caroline Vohl's review
+INFO:root:Writting Amy Schwartz's review
+INFO:root:Writting cedrik369's review
+INFO:root:Writting Rom G's review
+INFO:root:Writting Louis St-Onge's review
+INFO:root:Writting Sarah Blanchette's review
+INFO:root:Writting Laurie Dolce's review
+INFO:root:Writting Charles Beauregard's review
+INFO:root:Writting Francis Desroches's review
+INFO:root:Writting bertrand courtecuisse's review
+INFO:root:Writting Philippe Lavallée's review
+INFO:root:Writting Benoit Larose's review
+INFO:root:Writting Clare Mahx's review
+INFO:root:Writting Victor-Amarin Pann's review
+INFO:root:Writting Sébastien Gagné's review
+INFO:root:Writting Nicole Hébert's review
+INFO:root:Writting DiegoBasilii's review
+INFO:root:Writting Josué Silva's review
+INFO:root:Writting Tristan Taillon's review
+INFO:root:Writting Alexandre Côté's review
+INFO:root:Writting Éloïse Blais's review
+INFO:root:Writting RENE TURCOT's review
+INFO:root:Writting VAPS's review
+INFO:root:Writting Celeste Rios's review
+INFO:root:Writting Anita Abboud's review
+INFO:root:Writting alicia barriault's review
+INFO:root:Writting Raph Côté's review
+INFO:root:Writting james donovan's review
+INFO:root:Writting Guillaume Rioux's review
+INFO:root:Writting Alex's review
+INFO:root:Writting Francois Cloutier's review
+INFO:root:Writting Marie-Pier Cadorette's review
+INFO:root:Writting Karine Homier's review
+INFO:root:Writting Marc-Olivier Maheu's review
+INFO:root:Writting Pascal Vella's review
+INFO:root:Writting KD burr “Wilbur”'s review
+INFO:root:Writting Daniel Williams's review
+INFO:root:Writting Hoang Kien Pham's review
+INFO:root:Writting Julien Simard's review
+INFO:root:Writting Marie-Eve Cadieux's review
+INFO:root:Writting Emilie Vachon's review
+INFO:root:Writting JD GP (JD)'s review
+INFO:root:Writting Charlotte Lemonde's review
+INFO:root:Writting Luis Enrique Boylan's review
+INFO:root:Writting Jean Boule's review
+INFO:root:Writting Sophie Plouffe's review
+INFO:root:Writting Raphaele Bernier's review
+INFO:root:Writting Mercedes Lopez's review
+INFO:root:Writting Frédéric's review
+INFO:root:Writting Aurélien Eblé's review
+INFO:root:Writting Carlos Valverde D.'s review
+INFO:root:Writting Jan Hootsmans's review
+INFO:root:Writting Jasmine Marcil's review
+INFO:root:Writting Christine Mergl's review
+INFO:root:Writting Martin Tremblay's review
+INFO:root:Writting Juliette Rochman's review
+INFO:root:Writting Joel Durivage's review
+INFO:root:Writting vivi an le's review
+INFO:root:Writting philippe benoit's review
+INFO:root:Writting William Paris's review
+INFO:root:Writting Alex Dorval's review
+INFO:root:Writting Victor Bb's review
+INFO:root:Writting Pete Griffith's review
+INFO:root:Writting Angelique Boisvert's review
+INFO:root:Writting Marco-Antonio Abal Aguilar's review
+INFO:root:Writting Brian Tran's review
+INFO:root:Writting Ethel Sicotte-Doddridge's review
+INFO:root:Writting Christian Pelletier's review
+INFO:root:Writting jean-christophe simard's review
+INFO:root:Writting Rachel Tremblay's review
+INFO:root:Writting Jean-Marc Longpre's review
+INFO:root:Writting Anabel Médina Gimenez's review
+INFO:root:Writting Sebastien B.'s review
+INFO:root:Writting Xavier Fortin's review
+INFO:root:Writting Roxanne C.'s review
+INFO:root:Writting catherinevasia's review
+INFO:root:Writting Frank Nagy's review
+INFO:root:Writting tony marie's review
+INFO:root:Writting Familly Jag fire's review
+INFO:root:Writting Yan Santoire's review
+INFO:root:Writting Olivier Mineau's review
+INFO:root:Writting Whitney A's review
+INFO:root:Writting Francis Dru-Destroismaisons's review
+INFO:root:Writting Charlie Gendron's review
+INFO:root:Writting Le Connaisseur's review
+INFO:root:Writting Jessica LeBlanc's review
+INFO:root:Writting Tin Nguyen's review
+INFO:root:Writting Charlie Brière-Couture's review
+INFO:root:Writting Alexane Tremblay's review
+INFO:root:Writting Gabriel Samson's review
+INFO:root:Writting Eugene Magno's review
+INFO:root:Writting Ayumi Therrien's review
+INFO:root:Writting GabLach's review
+INFO:root:Writting Benjamin Palmer's review
+INFO:root:Writting Justine Authier's review
+INFO:root:Writting Dominic Prud'Homme's review
+INFO:root:Writting Laurence Dufault's review
+INFO:root:Writting Alexis Frappier's review
+INFO:root:Writting David C's review
+INFO:root:Writting Kelly Sawka's review
+INFO:root:Writting Jean Philippe Villard's review
+INFO:root:Writting Aimee Mannella's review
+INFO:root:Writting Benoît Tremblay-Antoine's review
+INFO:root:Writting Michelle-Mae Eguita's review
+INFO:root:Writting Mathias Boutet's review
+INFO:root:Writting Frederic Boucher's review
+INFO:root:Writting Andre Phu-Van Nguyen's review
+INFO:root:Writting Benny 27's review
+INFO:root:Writting Augu Augu's review
+INFO:root:Writting Christelle Lecomte's review
+INFO:root:Writting Annie Perreault's review
+INFO:root:Writting Pierre Bisaillon's review
+INFO:root:Writting Mr. Lours's review
+INFO:root:Writting Ellie Melançon's review
+INFO:root:Writting proto jean's review
+INFO:root:Writting Jean-Luc Gagnon's review
+INFO:root:Writting Heidi F's review
+INFO:root:Writting Emylie Manseau's review
+INFO:root:Writting Andree-anne Chauret's review
+INFO:root:Writting Vintage Villeray's review
+INFO:root:Writting Laflèche Savoie's review
+INFO:root:Writting Anaëlle Lepont's review
+INFO:root:Writting Berija015's review
+INFO:root:Writting Norbert Dy's review
+INFO:root:Writting Rami ben hamed's review
+INFO:root:Writting Yen Pham's review
+INFO:root:Writting Hélène Santoni's review
+INFO:root:Writting Sylvain Cote's review
+INFO:root:Writting Maxime Gagnon Smith's review
+INFO:root:Writting Yatu Sabes's review
+INFO:root:Writting Daniel Luna's review
+INFO:root:Writting Linda's review
+INFO:root:Writting Mathieu Ritchot's review
+INFO:root:Writting Harry Harry's review
+INFO:root:Writting Léa Mn's review
+INFO:root:Writting alexandre landry's review
+INFO:root:Writting Alexandra Grenier's review
+INFO:root:Writting Sue la minette's review
+INFO:root:Writting Benoit Gibeau's review
+INFO:root:Writting Gabriel CG's review
+INFO:root:Writting Juan Pablo Millan Sandoval's review
+INFO:root:Writting Marie Anne Leveille's review
+INFO:root:Writting bao tran's review
+INFO:root:Writting Ramon Alejandro Solares's review
+INFO:root:Writting Moises Garcia's review
+INFO:root:Writting Delphine's review
+INFO:root:Writting NICOLAS SCHWALLER's review
+INFO:root:Writting Charles-William Couture's review
+INFO:root:Writting Andy Carreño's review
+INFO:root:Writting Melanie Pasquarelli's review
+INFO:root:Writting Genevieve April's review
+INFO:root:Writting J-F Bouchard's review
+INFO:root:Writting Sara Arsenault's review
+INFO:root:Writting Kevin Baieli's review
+INFO:root:Writting Garrincha Jolicoeur's review
+INFO:root:Writting Benoit Deschanel's review
+INFO:root:Writting Myriam Israel's review
+INFO:root:Writting Yasmine Osmani's review
+INFO:root:Writting Roxanne Julien's review
+INFO:root:Writting Claude-Nicolas Demers's review
+INFO:root:Writting Chuck Norris's review
+INFO:root:Writting Laurent Simard's review
+INFO:root:Writting Adriana Ruiz's review
+INFO:root:Writting Dung-Hanh Nguyen's review
+INFO:root:Writting Caroline Croteau's review
+INFO:root:Writting Chaoz99's review
+INFO:root:Writting Meassa Pascal Pong's review
+INFO:root:Writting Tim Charbonnier's review
+INFO:root:Writting Mélanie Larente's review
+INFO:root:Writting Gabriel Martin-Meilleur's review
+INFO:root:Writting Raphael Boyer-Bélanger's review
+INFO:root:Writting Edith Beauchemin's review
+INFO:root:Writting Luka Borsellino's review
+INFO:root:Writting Antoine Quach's review
+INFO:root:Writting Justine Gauthier's review
+INFO:root:Writting Samuel Bonneville's review
+INFO:root:Writting JUAN PABLO MILLAN SANDOVAL's review
+INFO:root:Writting Jean-Michael Fleurant's review
+INFO:root:Writting Michel Cloutier's review
+INFO:root:Writting Erin May's review
+INFO:root:Writting Vincent Hudon's review
+INFO:root:Writting patriot44's review
+INFO:root:Writting Francia Destournel's review
+INFO:root:Writting Francis Cardinal's review
+INFO:root:Writting Felix Desjardins's review
+INFO:root:Writting Eric Tang's review
+INFO:root:Writting Nathalie Roberge's review
+INFO:root:Writting Antoine Dubois-Laprise's review
+INFO:root:Writting Alex Guevin's review
+INFO:root:Writting Lisa Kubler's review
+INFO:root:Writting Max Laurier's review
+INFO:root:Writting Nicolas Chabot's review
+INFO:root:Writting sopy hk's review
+INFO:root:Writting Yelena Knyazeva's review
+INFO:root:Writting Daniel Rivard's review
+INFO:root:Writting Andy Ao's review
+INFO:root:Writting Jolianne D's review
+INFO:root:Writting David Germelus's review
+INFO:root:Writting Patrick Pomminville's review
+INFO:root:Writting flwlessjames's review
+INFO:root:Writting Basile Philippe's review
+INFO:root:Writting Nancy Boulanger's review
+INFO:root:Writting Guillaume Beauregard's review
+INFO:root:Writting Maxime Lambert's review
+INFO:root:Writting Sussann Sunay's review
+INFO:root:Writting Beverly Summer's review
+INFO:root:Writting SEBASTIEN LAMOUREUX's review
+INFO:root:Writting Pablo Mejia-Sanchez's review
+INFO:root:Writting Gia Bach Nguyen's review
+INFO:root:Writting Charles-William Guillemette's review
+INFO:root:Writting Linda Hua's review
+INFO:root:Writting Antoine Boisier-Michaud's review
+INFO:root:Writting Simon Ak's review
+INFO:root:Writting Guillaume Carbonneau's review
+INFO:root:Writting vaflo victor's review
+INFO:root:Writting Anonymous 1341's review
+INFO:root:Writting Hugues Baillargeon's review
+INFO:root:Writting Eric Gagne's review
+INFO:root:Writting Sara Valcourt's review
+INFO:root:Writting Julien Pier Lavallée's review
+INFO:root:Writting Giulio Tassinario's review
+INFO:root:Writting Étienne Comtois's review
+INFO:root:Writting M. Y.'s review
+INFO:root:Writting Pauline B's review
+INFO:root:Writting Félix Paradis's review
+INFO:root:Writting Olivier Caron's review
+INFO:root:Writting Elitsa Manoilova's review
+INFO:root:Writting Daniel Ayoub's review
+INFO:root:Writting Julien Lessard's review
+INFO:root:Writting Yannick Labrecque's review
+INFO:root:Writting Fred L's review
+INFO:root:Writting caroline gervais's review
+INFO:root:Writting Nathalie Mora's review
+INFO:root:Finished
