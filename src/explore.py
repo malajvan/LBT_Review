@@ -4,7 +4,6 @@ import numpy as np
 import nltk
 import re
 import datetime
-import dateutil
 from dateutil.relativedelta import relativedelta
 
 with open('source.html','r') as source:
@@ -13,7 +12,6 @@ reviews=(soup.find_all("div",class_="jftiEf fontBodyMedium")) #reviews
 reviewer_name, profile,review_id,text,star,time=[],[],[],[],[],[]
 
 stopwords=nltk.corpus.stopwords.words('english')
-
 
 for r in reviews: #initializing dataframe and clean up text
     reviewer_name.append(r['aria-label'])
@@ -30,10 +28,10 @@ clean_text=[]
 #clean data
 for r in text:
     r=r.lower()
+    r=re.sub("[^a-z]",' ',r)
     r=r.split()
     r=[w for w in r if not w in set(stopwords)]
     r=' '.join(r)
-    r=re.sub('[^a-z]',' ',r)
     #getting only the translated part
     if 'translated google' in r:
         r=r.split('translated google')
@@ -73,6 +71,6 @@ understanding the data:
 """
 todo:
     * finish dataframe
-    * clean text data ('s,'t,...) 
+
 
 """
