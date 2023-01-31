@@ -2,6 +2,10 @@ from bs4 import BeautifulSoup
 import pandas as pd
 import numpy as np
 import nltk
+# nltk.download('wordnet')
+# nltk.download('stopwords')
+
+from nltk.stem import WordNetLemmatizer
 import re
 import datetime
 from dateutil.relativedelta import relativedelta
@@ -25,18 +29,23 @@ df.index.name='index'
 # df.to_csv('reviews.csv')
 
 clean_text=[]
+
 #clean data
 for r in text:
-    r=r.lower()
-    r=re.sub("[^a-z]",' ',r)
-    r=r.split()
-    r=[w for w in r if not w in set(stopwords)]
-    r=' '.join(r)
-    #getting only the translated part
     if 'translated google' in r:
         r=r.split('translated google')
         r=r[1]
-    clean_text.append(r)
+    r=r.lower()
+    r=re.sub("[^a-z]",' ',r)
+    r=r.split()
+    lem=[]
+    for w in r:
+        lem.append(WordNetLemmatizer().lemmatize(w))
+    lem=[w for w in lem if not w in set(stopwords)]
+    lem=' '.join(lem)
+    #getting only the translated part
+
+    clean_text.append(lem)
 
 #convert time from relative to approximate literal 
 current_date=datetime.datetime(2022, 12, 20,0,0,0)  #last time data collected was Dec 20th 2022
@@ -58,19 +67,3 @@ clean_df.to_csv('clean_reviews.csv')
 
 
 
-"""
-understanding the data:
-    * data-review-id: componenets from the same review
-    * MyEned: class name for review texts
-    * class="kvMYJc":aria-label is stars: ie. " 5 stars ", " 1 star "...
-    * class="WNxzHc qLhwHc": reviewers' profile
-    * class="rsqaWe": reviews' time : "ago"
-    * jstcache="345": # of reviews given of reviewer
-"""
-
-"""
-todo:
-    * finish dataframe
-
-
-"""
