@@ -6,14 +6,18 @@ Google Maps and Google Business has become one of the most important platform fo
 As La Belle Tonki gain more popularity, maintaining a good reputation and managing the consistent quality of operation is crucial longevity and further development. Having insights into their own (or other's) Google reviews can be a very benefitial tool.
 
 ## Data 
-
+The data was gathered using Selenium and beautifulsoup from Google Maps. Close to 1000 English text reviews were extracted and preprocessed using NLP techniques (removing stop words and punctuations, Lemmatization) along with star ratings and datetime information.
+Due to the way Google shows datetime information, more unspecified time was round off to the nearest common time unit (year, month, hour, minute)
 
 ## Methods
-
-
+Used tf-idf to extract important keywords and developing main themes:
+1. Food
+2. Service
+3. Vibe
+Using Random Forest model for sentiment analysis. Analyses trend and visualized with graphs
 
 ## Discussions
-
+All findings were presented to the restaurant's owners. Details in the Report coming soon.
 
 ## Authors
 
